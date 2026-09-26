@@ -379,3 +379,27 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (23ms) — 163 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (28ms) — 619 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (36ms) — 888 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-26T15:41:45.952Z
+- `shopify-allbirds` HTTP 200 (696ms) — 2720 keys; 8 changed, 0 added, 0 gone
+    - mens-tree-dashers-blizzard-bloom-coral#40444577480784: went out of stock
+    - mens-wool-cruiser-waterproof-dark-grey#41325624262736: went out of stock
+    - mens-wool-runner-nz-mid-waterproof-weathered-brown#41315597746256: went out of stock
+    - womens-wool-cruiser-sunshine#41282673475664: went out of stock
+    - womens-tree-dashers-rustic-orange#40977437786192: went out of stock
+    - mens-tree-runner-go-stony-cream#40583474348112: went out of stock
+    - womens-superlight-tree-runners-basin-blue#40367436267600: went out of stock
+    - womens-tree-skippers-natural-black#40197883887696: went out of stock
+- `shopify-gymshark` HTTP 200 (609ms) — 1685 keys; 4 changed, 0 added, 0 gone
+    - gymshark-running-elite-half-tights-shorts-grey-aw26#39799367205066: went out of stock
+    - gymshark-whitney-flared-leggings-tall-leggings-black-aw26#39799733518538: went out of stock
+    - gymshark-power-washed-cuff-joggers-pants-purple-ss26-b5c8o-pclw#39797063516362: went out of stock
+    - gymshark-weekend-lifestyle-parachute-pant-pants-brown-ss26#39796982776010: went out of stock
+- `shopify-mejuri` HTTP 200 (1406ms) — 1545 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1417ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (272ms) — 702 keys; 0 changed, 0 added, 1 gone
+    - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `jobs-figma` HTTP 200 (52ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (56ms) — 619 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (88ms) — 887 keys; 0 changed, 0 added, 1 gone
+    - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
