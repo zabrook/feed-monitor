@@ -554,3 +554,14 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (63ms) — 163 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (59ms) — 618 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (61ms) — 887 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-26T18:13:29.641Z
+- `shopify-allbirds` HTTP 200 (792ms) — 2720 keys; 1 changed, 0 added, 0 gone
+    - womens-cruiser-slip-on-corduroy-stony-cream#41301584478288: went out of stock
+- `shopify-gymshark` HTTP 200 (1232ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (2275ms) — 1545 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1520ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (208ms) — 702 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (53ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (53ms) — 618 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (62ms) — 887 keys; 0 changed, 0 added, 0 gone
