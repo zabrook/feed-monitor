@@ -1,0 +1,58 @@
+name: feed monitor
+
+# Records how often tracked items change state.
+# Runs every 10 minutes; disable when the observation window is complete.
+
+on:
+  schedule:
+    # Offset off round boundaries on purpose. GitHub's scheduler is heaviest at
+    # :00 and at */5 boundaries - exactly where "*/10" lands - and under load it
+    # delays or silently SKIPS runs. Odd minutes avoid the worst contention while
+    # keeping the same 10-minute cadence.
+    - cron: "3,13,23,33,43,53 * * * *"
+  workflow_dispatch: # manual trigger
+
+# Least privilege: the job only needs to push its own results back.
+permissions:
+  contents: write
+
+# If a run is slow, don't let the next one stack on top and race the commit.
+concurrency:
+  group: soak
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20" # built-in fetch; no dependencies to install
+
+      - name: Run change detection
+        working-directory: validation/soak
+        run: node check.js
+
+      - name: Commit results
+        run: |
+          git config user.name  "soak-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add validation/soak/snapshots validation/soak/events.md
+          # No diff means nothing changed upstream — not an error, just a quiet tick.
+          if git diff --staged --quiet; then
+            echo "no changes to commit"
+            exit 0
+          fi
+          git commit -m "soak: $(date -u +%Y-%m-%dT%H:%MZ)"
+          # Another run may have landed first; rebase rather than fail the run.
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push && exit 0
+            echo "push attempt $i failed, retrying"
+            sleep 5
+          done
+          echo "could not push after 3 attempts"
+          exit 1
