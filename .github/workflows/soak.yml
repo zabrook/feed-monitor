@@ -52,19 +52,38 @@ jobs:
 
           END=$(( $(date +%s) + MINUTES * 60 ))
           N=0
+          FAILS=0
 
           while [ "$(date +%s)" -lt "$END" ]; do
             N=$((N + 1))
             echo "--- poll $N ---"
+
+            # Resync to remote BEFORE polling, every iteration. A queued run is
+            # pinned by actions/checkout to the SHA from when it was created,
+            # which may be hours stale by the time the concurrency group lets it
+            # start - diffing against those snapshots is wrong, and pushing over
+            # them conflicts forever. Hard reset means local history can never
+            # diverge, so there is nothing to rebase.
+            git fetch -q origin "${GITHUB_REF_NAME}"
+            git reset --hard -q "origin/${GITHUB_REF_NAME}"
+
             node validation/soak/check.js || echo "check failed, continuing"
 
             git add validation/soak/snapshots validation/soak/events.md
             if ! git diff --staged --quiet; then
               git commit -q -m "feed: $(date -u +%Y-%m-%dT%H:%MZ)"
-              # Never abort the loop on a transient push failure - losing the
-              # remaining hours of collection is worse than a delayed commit.
-              git pull --rebase --autostash -q origin "${GITHUB_REF_NAME}" \
-                && git push -q || echo "push failed, will retry next poll"
+              if git push -q; then
+                FAILS=0
+              else
+                FAILS=$((FAILS + 1))
+                echo "push failed ($FAILS consecutive)"
+                # Tolerate transient failures, but never again poll silently for
+                # hours while every push fails. Surface it instead.
+                if [ "$FAILS" -ge 3 ]; then
+                  echo "::error::3 consecutive push failures - stopping so this is visible"
+                  exit 1
+                fi
+              fi
             fi
 
             # Only sleep if a full interval still fits before the deadline,
