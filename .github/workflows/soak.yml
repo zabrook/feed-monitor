@@ -1,30 +1,39 @@
 name: feed monitor
 
-# Records how often tracked items change state.
-# Runs every 10 minutes; disable when the observation window is complete.
+# Polls the tracked feeds on a loop INSIDE a single job, rather than relying on
+# GitHub's `schedule` trigger.
+#
+# Why: scheduled runs never fired on this account - not on a private repo, and
+# not on this public one either (missed every slot across ~2 hours). GitHub's
+# scheduler is best-effort and silently skips runs. A self-contained loop is
+# deterministic.
+#
+# A job can run up to 6 hours, so one dispatch covers ~5.5h of polling. Public
+# repos get unlimited Actions minutes, so this costs nothing. Re-dispatch
+# manually to continue - including once before bed, which covers the overnight
+# window when merchants typically update inventory.
 
 on:
-  schedule:
-    # Offset off round boundaries on purpose. GitHub's scheduler is heaviest at
-    # :00 and at */5 boundaries - exactly where "*/10" lands - and under load it
-    # delays or silently SKIPS runs. Odd minutes avoid the worst contention while
-    # keeping the same 10-minute cadence.
-    - cron: "3,13,23,33,43,53 * * * *"
-  workflow_dispatch: # manual trigger
+  workflow_dispatch:
+    inputs:
+      minutes:
+        description: "Total minutes to poll (max 330)"
+        default: "330"
+      interval:
+        description: "Seconds between polls"
+        default: "600"
 
-# Least privilege: the job only needs to push its own results back.
 permissions:
   contents: write
 
-# If a run is slow, don't let the next one stack on top and race the commit.
 concurrency:
   group: soak
   cancel-in-progress: false
 
 jobs:
-  check:
+  monitor:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 350 # job hard limit is 360; leave headroom to exit cleanly
 
     steps:
       - uses: actions/checkout@v4
@@ -33,26 +42,36 @@ jobs:
         with:
           node-version: "20" # built-in fetch; no dependencies to install
 
-      - name: Run change detection
-        working-directory: validation/soak
-        run: node check.js
-
-      - name: Commit results
+      - name: Poll loop
+        env:
+          MINUTES: ${{ inputs.minutes }}
+          INTERVAL: ${{ inputs.interval }}
         run: |
           git config user.name  "soak-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add validation/soak/snapshots validation/soak/events.md
-          # No diff means nothing changed upstream — not an error, just a quiet tick.
-          if git diff --staged --quiet; then
-            echo "no changes to commit"
-            exit 0
-          fi
-          git commit -m "soak: $(date -u +%Y-%m-%dT%H:%MZ)"
-          # Another run may have landed first; rebase rather than fail the run.
-          for i in 1 2 3; do
-            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" && git push && exit 0
-            echo "push attempt $i failed, retrying"
-            sleep 5
+
+          END=$(( $(date +%s) + MINUTES * 60 ))
+          N=0
+
+          while [ "$(date +%s)" -lt "$END" ]; do
+            N=$((N + 1))
+            echo "--- poll $N ---"
+            node validation/soak/check.js || echo "check failed, continuing"
+
+            git add validation/soak/snapshots validation/soak/events.md
+            if ! git diff --staged --quiet; then
+              git commit -q -m "feed: $(date -u +%Y-%m-%dT%H:%MZ)"
+              # Never abort the loop on a transient push failure - losing the
+              # remaining hours of collection is worse than a delayed commit.
+              git pull --rebase --autostash -q origin "${GITHUB_REF_NAME}" \
+                && git push -q || echo "push failed, will retry next poll"
+            fi
+
+            # Only sleep if a full interval still fits before the deadline,
+            # otherwise the job would overshoot into the hard timeout.
+            REMAINING=$(( END - $(date +%s) ))
+            [ "$REMAINING" -le "$INTERVAL" ] && break
+            sleep "$INTERVAL"
           done
-          echo "could not push after 3 attempts"
-          exit 1
+
+          echo "completed $N polls"
