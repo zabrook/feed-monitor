@@ -337,3 +337,15 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (21ms) — 163 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (30ms) — 619 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (29ms) — 888 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-26T09:44:39.695Z
+- `shopify-allbirds` HTTP 200 (904ms) — 2720 keys; 2 changed, 0 added, 0 gone
+    - womens-wool-cruiser-sapphire-blue#41282628616272: went out of stock
+    - womens-couriers-natural-white-basin-blue#40864706265168: went out of stock
+- `shopify-gymshark` HTTP 200 (602ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (700ms) — 1545 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1166ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (280ms) — 703 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (25ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (28ms) — 619 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (35ms) — 888 keys; 0 changed, 0 added, 0 gone
