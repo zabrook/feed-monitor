@@ -669,3 +669,14 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (53ms) — 163 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (55ms) — 618 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (59ms) — 887 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-26T20:04:41.213Z
+- `shopify-allbirds` HTTP 200 (632ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (588ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (1286ms) — 1545 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (2000ms) — 3401 keys; 1 changed, 0 added, 0 gone
+    - washed-classic-comforter#43857953521754: RESTOCKED
+- `jobs-stripe` HTTP 200 (179ms) — 702 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (57ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (58ms) — 618 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (60ms) — 887 keys; 0 changed, 0 added, 0 gone
