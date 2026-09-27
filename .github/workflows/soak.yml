@@ -32,6 +32,20 @@ concurrency:
 
 jobs:
   monitor:
+    # A single job caps at 6 hours, which is why this used to need re-triggering
+    # by hand every ~5.5h. A matrix with max-parallel: 1 runs the segments
+    # strictly one after another, each getting its own 6-hour budget - so one
+    # dispatch now covers 12 x 5.5h = ~66 hours unattended.
+    #
+    # Self-triggering would need a PAT stored as a secret, because GitHub
+    # deliberately blocks workflows from re-triggering themselves with the
+    # default token. This gets the same result with no credential to manage.
+    strategy:
+      max-parallel: 1
+      fail-fast: false # one bad segment must not cancel the remaining ones
+      matrix:
+        segment: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+
     runs-on: ubuntu-latest
     timeout-minutes: 350 # job hard limit is 360; leave headroom to exit cleanly
 
@@ -46,7 +60,9 @@ jobs:
         env:
           MINUTES: ${{ inputs.minutes }}
           INTERVAL: ${{ inputs.interval }}
+          SEGMENT: ${{ matrix.segment }}
         run: |
+          echo "segment $SEGMENT of 12"
           git config user.name  "soak-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
