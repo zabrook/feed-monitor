@@ -747,3 +747,84 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (52ms) — 163 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (59ms) — 618 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (62ms) — 887 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-27T19:31:11.285Z
+- `shopify-allbirds` HTTP 200 (846ms) — 2720 keys; 50 changed, 0 added, 0 gone
+    - womens-tree-breezer-bow-natural-black#41222379012176: went out of stock
+    - womens-tree-breezer-bow-natural-black#41222379044944: went out of stock
+    - womens-tree-breezer-bow-bark-brown#41222379798608: went out of stock
+    - womens-tree-breezer-bow-bark-brown#41222379831376: went out of stock
+    - womens-tree-breezer-sienna-blush-knit#41220636049488: went out of stock
+    - womens-tree-breezer-sienna-blush-knit#41220636147792: went out of stock
+    - womens-lounger-lift-hanami-blue#41014223437904: went out of stock
+    - mens-tree-dashers-stormy-grey#40719101100112: went out of stock
+    - womens-wool-breezers-dapple-grey#40224450084944: went out of stock
+    - womens-tree-dasher-rich-earth#40110054637648: went out of stock
+    - womens-wool-runner-mizzles-natural-black-rugged-khaki#39812333502544: went out of stock
+    - womens-wool-runner-mizzles-natural-black-rugged-khaki#39812333535312: went out of stock
+    - mens-tree-skippers-sesame#32714064232528: went out of stock
+    - womens-wool-runner-mizzles-natural-grey#29113511247952: went out of stock
+    - mens-wool-cruiser-waterproof-natural-black-natural-white#41315587162192: went out of stock
+    - mens-tree-runner-nz-luxe-gold#41395434553424: went out of stock
+    - mens-tree-runner-nz-luxe-gold#41395434586192: went out of stock
+    - womens-cruiser-slip-on-corduroy-stony-cream#41301584347216: went out of stock
+    - womens-cruiser-slip-on-corduroy-stony-cream#41301584445520: went out of stock
+    - womens-cruiser-blizzard-dark-navy#41243604025424: went out of stock
+    - womens-lounger-lift-blizzard#41222675955792: went out of stock
+    - womens-lounger-lift-blizzard#41222676185168: went out of stock
+    - mens-tree-runner-go-utility-natural-black-dark-jungle#41222404276304: went out of stock
+    - mens-tree-runner-go-utility-natural-white-rustic-brown#41014192504912: went out of stock
+    - mens-tree-dashers-utility#41014142206032: went out of stock
+    - mens-tree-dashers-utility#41014142369872: went out of stock
+    - womens-canvas-pipers-natural-black-blizzard#41014033743952: went out of stock
+    - mens-tree-gliders-blizzard-natural-black#41011842121808: went out of stock
+    - womens-lounger-lift-corduroy#40941010845776: went out of stock
+    - mens-tree-gliders-blizzard-hanami-blue#40832425066576: went out of stock
+    - mens-tree-gliders-blizzard-hanami-blue#40832425230416: went out of stock
+    - mens-tree-runner-go-stony-cream#40583474184272: went out of stock
+    - mens-tree-runner-go-stony-cream#40583474413648: went out of stock
+    - womens-canvas-pipers-basin-blue-1#40508012822608: went out of stock
+    - womens-tree-runner-go-natural-black-blizzard#40482722480208: went out of stock
+    - womens-tree-runner-go#40482695577680: went out of stock
+    - womens-tree-runner-go#40482695675984: went out of stock
+    - mens-tree-dasher-relay-deep-navy#40444542124112: went out of stock
+    - mens-wool-runner-go-medium-grey#40284720562256: went out of stock
+    - womens-tree-dashers-hazy-cocoa-stony-cream#40258406940752: went out of stock
+    - womens-wool-runner-up-mizzles-natural-black#40236542459984: went out of stock
+    - womens-wool-runner-up-mizzles-natural-black#40236542492752: went out of stock
+    - mens-tree-dashers-natural-black-natural-black#39789589856336: went out of stock
+    - mens-tree-dashers-natural-black-natural-black#39789589921872: went out of stock
+    - mens-tree-dashers-natural-black-natural-black#39789589987408: went out of stock
+    - mens-tree-dashers-natural-black-natural-black#39789590118480: went out of stock
+    - mens-tree-dasher-relay#39745240727632: went out of stock
+    - womens-trino-thong-kaikoura-white#33148327592016: went out of stock
+    - womens-trino-thong-peppercorn#32883862601808: went out of stock
+    - womens-tree-runners-jet-black#33179616804944: went out of stock
+- `shopify-gymshark` HTTP 200 (477ms) — 1685 keys; 8 changed, 0 added, 0 gone
+    - gymshark-whitney-flared-leggings-short-leggings-black-aw26#39799734567114: went out of stock
+    - gymshark-whitney-mini-flare-short-leggings-blue-aw26#39797304918218: went out of stock
+    - gymshark-conditioning-club-washed-tank-sleeveless-tops-brown-aw26-a4c3z-ndrt#39798323577034: went out of stock
+    - gymshark-balcony-peekaboo-sports-bra-sports-bras-green-ss26#39796968980682: went out of stock
+    - gymshark-weekend-lifestyle-parachute-pant-pants-brown-ss26#39797003813066: went out of stock
+    - gymshark-power-washed-cuff-joggers-pants-purple-ss26#39796945387722: went out of stock
+    - gymshark-power-washed-cuff-joggers-pants#39796888699082: went out of stock
+    - gymshark-light-hold-shorts-gs-stealth-blue#39796775059658: went out of stock
+- `shopify-mejuri` HTTP 200 (704ms) — 1545 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1606ms) — 3401 keys; 9 changed, 0 added, 0 gone
+    - super-plush-robe-last-call#44079476310106: went out of stock
+    - luxe-pillowcases-last-call#43768600035418: went out of stock
+    - sunwashed-check-bed-blanket-last-call#43664297394266: went out of stock
+    - luxe-hardcore-bundle-mib#43393088749658: went out of stock
+    - luxe-hardcore-bundle-mib#43380360314970: went out of stock
+    - luxe-hardcore-bundle-mib#43393089011802: went out of stock
+    - luxe-pillowcases#43857951457370: went out of stock
+    - luxe-core-sheet-set#43350204645466: went out of stock
+    - luxe-core-sheet-set#43350426878042: went out of stock
+- `jobs-stripe` HTTP 200 (112ms) — 701 keys; 0 changed, 0 added, 1 gone
+    - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `jobs-figma` HTTP 200 (56ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (62ms) — 619 keys; 0 changed, 1 added, 0 gone
+    - NEW: 5435710008
+- `jobs-databricks` HTTP 200 (59ms) — 888 keys; 1 changed, 1 added, 0 gone
+    - job 8495059002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-26T18:36:13-04:00
+    - NEW: 8403943002
