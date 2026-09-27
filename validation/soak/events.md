@@ -993,3 +993,14 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (62ms) — 163 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (62ms) — 619 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (62ms) — 888 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-27T22:12:49.544Z
+- `shopify-allbirds` HTTP 200 (624ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (643ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (696ms) — 1545 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1499ms) — 3401 keys; 1 changed, 0 added, 0 gone
+    - dreamweave-waffle-robe-last-call#43768600166490: RESTOCKED
+- `jobs-stripe` HTTP 200 (118ms) — 701 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (59ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (78ms) — 619 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (61ms) — 888 keys; 0 changed, 0 added, 0 gone
