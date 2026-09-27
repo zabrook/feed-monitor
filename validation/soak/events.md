@@ -859,3 +859,20 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (72ms) — 163 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (56ms) — 619 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (62ms) — 888 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-27T20:11:34.577Z
+- `shopify-allbirds` HTTP 200 (690ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (481ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (736ms) — 1545 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1512ms) — 3401 keys; 7 changed, 0 added, 0 gone
+    - luxe-hardcore-bundle-mib#43380360544346: went out of stock
+    - luxe-hardcore-bundle-mib#43380360609882: went out of stock
+    - luxe-hardcore-bundle-mib#43380361035866: RESTOCKED
+    - luxe-hardcore-bundle-mib#43380360740954: RESTOCKED
+    - luxe-hardcore-bundle-mib#43380360839258: RESTOCKED
+    - luxe-hardcore-bundle-mib#43393088913498: RESTOCKED
+    - luxe-hardcore-bundle-mib#43393089241178: RESTOCKED
+- `jobs-stripe` HTTP 200 (121ms) — 701 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (57ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (67ms) — 619 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (74ms) — 888 keys; 0 changed, 0 added, 0 gone
