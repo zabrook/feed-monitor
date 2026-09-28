@@ -2583,3 +2583,30 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (65ms) — 165 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (64ms) — 625 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (68ms) — 882 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T17:07:38.180Z
+- `shopify-allbirds` HTTP 200 (694ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (511ms) — 1685 keys; 0 changed, 14 added, 14 gone
+    - NEW: gymshark-conditioning-club-washed-t-shirt-ss-tops-brown-aw26-a4c5n-ndlh#39798724526282
+    - NEW: gymshark-conditioning-club-washed-t-shirt-ss-tops-brown-aw26-a4c5n-ndlh#39798724985034
+    - NEW: gymshark-conditioning-club-washed-t-shirt-ss-tops-brown-aw26-a4c5n-ndlh#39798725050570
+    - NEW: gymshark-conditioning-club-washed-t-shirt-ss-tops-brown-aw26-a4c5n-ndlh#39798725345482
+    - NEW: gymshark-conditioning-club-washed-t-shirt-ss-tops-brown-aw26-a4c5n-ndlh#39798725804234
+    - NEW: gymshark-conditioning-club-washed-t-shirt-ss-tops-brown-aw26-a4c5n-ndlh#39798726885578
+    - NEW: gymshark-conditioning-club-washed-t-shirt-ss-tops-brown-aw26-a4c5n-ndlh#39798727016650
+    - NEW: gymshark-conditioning-club-washed-long-sleeve-t-shirt-ls-tops-brown-aw26#39797185577162
+    - NEW: gymshark-conditioning-club-washed-long-sleeve-t-shirt-ls-tops-brown-aw26#39797187313866
+    - NEW: gymshark-conditioning-club-washed-long-sleeve-t-shirt-ls-tops-brown-aw26#39797188067530
+    - NEW: gymshark-conditioning-club-washed-long-sleeve-t-shirt-ls-tops-brown-aw26#39797188821194
+    - NEW: gymshark-conditioning-club-washed-long-sleeve-t-shirt-ls-tops-brown-aw26#39797189804234
+    - NEW: gymshark-conditioning-club-washed-long-sleeve-t-shirt-ls-tops-brown-aw26#39797189902538
+    - NEW: gymshark-conditioning-club-washed-long-sleeve-t-shirt-ls-tops-brown-aw26#39797190426826
+    - 14 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `shopify-mejuri` HTTP 200 (979ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (981ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (361ms) — 706 keys; 2 changed, 0 added, 0 gone
+    - job 7810205: updated 2026-09-25T16:44:40-04:00 -> 2026-09-28T13:04:31-04:00
+    - job 8097840: updated 2026-09-25T16:44:52-04:00 -> 2026-09-28T13:06:22-04:00
+- `jobs-figma` HTTP 200 (65ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (104ms) — 625 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (66ms) — 882 keys; 0 changed, 0 added, 0 gone
