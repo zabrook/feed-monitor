@@ -2791,3 +2791,54 @@ Append-only. One block per run, written by [check.js](check.js).
     - job 5400012008: updated 2026-09-01T12:50:54-04:00 -> 2026-09-28T14:49:01-04:00
 - `jobs-databricks` HTTP 200 (45ms) — 882 keys; 0 changed, 1 added, 0 gone
     - NEW: 8593373002
+
+### 2026-09-28T18:59:13.513Z
+- `shopify-allbirds` HTTP 200 (563ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (556ms) — 1691 keys; 0 changed, 35 added, 33 gone
+    - NEW: gymshark-running-windbreaker-jackets-outerwear-black-aw26#39799375528138
+    - NEW: gymshark-running-windbreaker-jackets-outerwear-black-aw26#39799383163082
+    - NEW: gymshark-running-windbreaker-jackets-outerwear-black-aw26#39799396139210
+    - NEW: gymshark-running-windbreaker-jackets-outerwear-black-aw26#39799396171978
+    - NEW: gymshark-running-windbreaker-jackets-outerwear-black-aw26#39799420846282
+    - NEW: gymshark-running-windbreaker-jackets-outerwear-black-aw26#39799432806602
+    - NEW: gymshark-running-windbreaker-jackets-outerwear-black-aw26#39799434379466
+    - NEW: gymshark-hybrid-race-tank-sleeveless-tops-white-aw26#39799454990538
+    - NEW: gymshark-hybrid-race-tank-sleeveless-tops-white-aw26#39799455088842
+    - NEW: gymshark-hybrid-race-tank-sleeveless-tops-white-aw26#39799500013770
+    - NEW: gymshark-hybrid-race-tank-sleeveless-tops-white-aw26#39799505125578
+    - NEW: gymshark-hybrid-race-tank-sleeveless-tops-white-aw26#39799505191114
+    - NEW: gymshark-hybrid-race-tank-sleeveless-tops-white-aw26#39799520526538
+    - NEW: gymshark-hybrid-race-tank-sleeveless-tops-white-aw26#39799525343434
+    - NEW: gymshark-hybrid-race-tank-sleeveless-tops-black-aw26#39799333126346
+    - NEW: gymshark-hybrid-race-tank-sleeveless-tops-black-aw26#39799333191882
+    - NEW: gymshark-hybrid-race-tank-sleeveless-tops-black-aw26#39799336042698
+    - NEW: gymshark-hybrid-race-tank-sleeveless-tops-black-aw26#39799339188426
+    - NEW: gymshark-hybrid-race-tank-sleeveless-tops-black-aw26#39799345316042
+    - NEW: gymshark-hybrid-race-tank-sleeveless-tops-black-aw26#39799361994954
+    - NEW: gymshark-hybrid-race-tank-sleeveless-tops-black-aw26#39799383589066
+    - NEW: gymshark-running-elite-boxy-race-vest-sleeveless-tops-white-aw26#39798860480714
+    - NEW: gymshark-running-elite-boxy-race-vest-sleeveless-tops-white-aw26#39798936338634
+    - NEW: gymshark-running-elite-boxy-race-vest-sleeveless-tops-white-aw26#39798941483210
+    - NEW: gymshark-running-elite-boxy-race-vest-sleeveless-tops-white-aw26#39798981886154
+    - NEW: gymshark-running-elite-boxy-race-vest-sleeveless-tops-white-aw26#39799098998986
+    - NEW: gymshark-running-elite-boxy-race-vest-sleeveless-tops-white-aw26#39799124984010
+    - NEW: gymshark-running-elite-boxy-race-vest-sleeveless-tops-white-aw26#39799902306506
+    - NEW: gymshark-sport-5-2-in-1-shorts-shorts-blue-aw26-a1b3j-ufk4#39797129609418
+    - NEW: gymshark-sport-5-2-in-1-shorts-shorts-blue-aw26-a1b3j-ufk4#39797334278346
+    - NEW: gymshark-sport-5-2-in-1-shorts-shorts-blue-aw26-a1b3j-ufk4#39797335654602
+    - NEW: gymshark-sport-5-2-in-1-shorts-shorts-blue-aw26-a1b3j-ufk4#39797339259082
+    - NEW: gymshark-sport-5-2-in-1-shorts-shorts-blue-aw26-a1b3j-ufk4#39797339390154
+    - NEW: gymshark-sport-5-2-in-1-shorts-shorts-blue-aw26-a1b3j-ufk4#39797339553994
+    - NEW: gymshark-sport-5-2-in-1-shorts-shorts-blue-aw26-a1b3j-ufk4#39797341814986
+    - 33 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `shopify-mejuri` HTTP 200 (818ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1248ms) — 3393 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (4083ms) — 704 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (39ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (43ms) — 627 keys; 0 changed, 4 added, 3 gone
+    - NEW: 5435468008
+    - NEW: 5436684008
+    - NEW: 5436697008
+    - NEW: 5436703008
+    - 3 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `jobs-databricks` HTTP 200 (48ms) — 882 keys; 0 changed, 0 added, 0 gone
