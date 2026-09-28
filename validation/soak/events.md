@@ -1745,3 +1745,114 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (79ms) — 164 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (130ms) — 617 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (83ms) — 888 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T06:19:43.969Z
+- `shopify-allbirds` HTTP 200 (628ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (600ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (1213ms) — 1534 keys; 1518 changed, 0 added, 0 gone
+    - open-dome-twist-earrings#51940040048925: went out of stock, price 178.00 -> 198.00
+    - open-dome-pave-lab-grown-sapphire-drop-pendant-necklace#51940041294109: went out of stock, price 298.00 -> 368.00
+    - open-dome-pave-lab-grown-sapphire-drop-pendant-necklace#51940041326877: went out of stock, price 278.00 -> 298.00
+    - open-dome-pave-lab-grown-sapphire-drop-earrings#51940039655709: went out of stock, price 418.00 -> 448.00
+    - open-dome-pave-lab-grown-sapphire-drop-earrings#51940039688477: went out of stock, price 358.00 -> 398.00
+    - open-dome-drop-earrings#51940039852317: went out of stock, price 358.00 -> 398.00
+    - open-dome-drop-earrings#51940039885085: went out of stock, price 278.00 -> 328.00
+    - margot-hinge-cuff#51035464040733: went out of stock
+    - margot-hinge-cuff#51035464073501: went out of stock
+    - margot-hinge-cuff#51035464106269: went out of stock
+    - margot-hinge-cuff#51316124320029: price 140.00 -> 198.00
+    - margot-hinge-cuff#51316124352797: price 140.00 -> 198.00
+    - margot-hinge-cuff#51316124385565: price 140.00 -> 198.00
+    - open-dome-river-ring#51315728482589: went out of stock, price 538.00 -> 598.00
+    - open-dome-river-ring#51315728515357: went out of stock, price 538.00 -> 598.00
+    - open-dome-river-ring#51315728548125: went out of stock, price 538.00 -> 598.00
+    - open-dome-river-ring#51315728580893: went out of stock, price 538.00 -> 598.00
+    - open-dome-river-ring#51315728613661: went out of stock, price 538.00 -> 598.00
+    - open-dome-river-ring#51315728646429: went out of stock, price 538.00 -> 598.00
+    - open-dome-river-ring#51315728679197: went out of stock, price 538.00 -> 598.00
+    - twin-open-dome-river-ring#51315728744733: went out of stock, price 838.00 -> 948.00
+    - twin-open-dome-river-ring#51315728777501: went out of stock, price 838.00 -> 948.00
+    - twin-open-dome-river-ring#51315728810269: went out of stock, price 838.00 -> 948.00
+    - twin-open-dome-river-ring#51315728843037: went out of stock, price 838.00 -> 948.00
+    - twin-open-dome-river-ring#51315728875805: went out of stock, price 838.00 -> 948.00
+    - twin-open-dome-river-ring#51315728908573: went out of stock, price 838.00 -> 948.00
+    - twin-open-dome-river-ring#51315728941341: went out of stock, price 838.00 -> 948.00
+    - open-dome-river-drop-earrings#51315728449821: went out of stock, price 718.00 -> 798.00
+    - open-dome-river-charm#51315728711965: went out of stock, price 538.00 -> 598.00
+    - interconnected-sideline-tennis-bracelet#51220476133661: price 1100.00 -> 1200.00
+    - interconnected-sideline-tennis-bracelet#51220476166429: went out of stock, price 1200.00 -> 1300.00
+    - interconnected-sideline-tennis-bracelet#51220476199197: went out of stock, price 1300.00 -> 1400.00
+    - interconnected-sideline-tennis-bracelet#51220476231965: went out of stock, price 1400.00 -> 1500.00
+    - single-interconnected-x-pave-diamond-stud#51220475805981: went out of stock
+    - single-interconnected-strike-pave-diamond-stud#51220475117853: went out of stock
+    - piercing-studio-single-interconnected-x-diamond-stud#51220475773213: went out of stock, price 178.00 -> 198.00
+    - piercing-studio-interconnected-strike-pave-diamond-stud#51220475969821: went out of stock, price 178.00 -> 198.00
+    - interconnected-pave-diamond-x-necklace#51220475085085: went out of stock, price 898.00 -> 998.00
+    - interconnected-x-lariat-necklace#51220474102045: went out of stock, price 298.00 -> 328.00
+    - interconnected-x-drop-earrings#51220474167581: went out of stock, price 138.00 -> 158.00
+    - interconnected-tennis-cuff#52749498450205: went out of stock, price 478.00 -> 528.00
+    - interconnected-tennis-cuff#52749498482973: went out of stock, price 518.00 -> 578.00
+    - interconnected-tennis-cuff#52749498515741: went out of stock, price 558.00 -> 628.00
+    - interconnected-tennis-cuff#52749498548509: went out of stock, price 598.00 -> 678.00
+    - interconnected-tennis-cuff#51220475150621: went out of stock, price 4700.00 -> 5200.00
+    - interconnected-tennis-cuff#51220475183389: went out of stock, price 4900.00 -> 5400.00
+    - interconnected-tennis-cuff#51220475216157: went out of stock, price 5100.00 -> 5600.00
+    - interconnected-tennis-cuff#51220475248925: went out of stock, price 5300.00 -> 5800.00
+    - interconnected-tennis-bracelet#52753334829341: went out of stock, price 658.00 -> 748.00
+    - interconnected-tennis-bracelet#52753334862109: went out of stock, price 698.00 -> 798.00
+    - interconnected-tennis-bracelet#52753334894877: went out of stock, price 738.00 -> 848.00
+    - interconnected-tennis-bracelet#52753334927645: went out of stock, price 778.00 -> 898.00
+    - interconnected-tennis-bracelet#51220476690717: went out of stock, price 6600.00 -> 7500.00
+    - interconnected-tennis-bracelet#51220476723485: went out of stock, price 6800.00 -> 7700.00
+    - interconnected-tennis-bracelet#51220476756253: went out of stock, price 7000.00 -> 7900.00
+    - interconnected-tennis-bracelet#51220476789021: went out of stock, price 7200.00 -> 8100.00
+    - interconnected-pave-diamond-open-ring#51220476461341: went out of stock, price 718.00 -> 798.00
+    - interconnected-pave-diamond-open-ring#51220476494109: went out of stock, price 718.00 -> 798.00
+    - interconnected-pave-diamond-open-ring#51220476526877: went out of stock, price 718.00 -> 798.00
+    - interconnected-pave-diamond-open-ring#51220476559645: went out of stock, price 718.00 -> 798.00
+    - interconnected-pave-diamond-open-ring#51220476592413: went out of stock, price 718.00 -> 798.00
+    - interconnected-pave-diamond-open-ring#51220476625181: went out of stock, price 718.00 -> 798.00
+    - interconnected-pave-diamond-open-ring#51220476657949: went out of stock, price 718.00 -> 798.00
+    - interconnected-pave-diamond-hoops#51220475052317: went out of stock, price 838.00 -> 948.00
+    - interconnected-pave-diamond-floating-ring#51220475281693: went out of stock, price 898.00 -> 998.00
+    - interconnected-pave-diamond-floating-ring#51220475314461: went out of stock, price 898.00 -> 998.00
+    - interconnected-pave-diamond-floating-ring#51220475347229: went out of stock, price 898.00 -> 998.00
+    - interconnected-pave-diamond-floating-ring#51220475379997: went out of stock, price 898.00 -> 998.00
+    - interconnected-pave-diamond-floating-ring#51220475412765: went out of stock, price 898.00 -> 998.00
+    - interconnected-pave-diamond-floating-ring#51220475445533: went out of stock, price 898.00 -> 998.00
+    - interconnected-pave-diamond-floating-ring#51220475478301: went out of stock, price 898.00 -> 998.00
+    - interconnected-pave-diamond-floating-hoops#51220476887325: went out of stock, price 898.00 -> 998.00
+    - interconnected-lattice-ring#51220475543837: went out of stock
+    - interconnected-lattice-ring#51220475576605: went out of stock
+    - interconnected-lattice-ring#51220475609373: went out of stock
+    - interconnected-lattice-ring#51220475642141: went out of stock
+    - interconnected-lattice-ring#51220475674909: went out of stock
+    - interconnected-lattice-ring#51220475707677: went out of stock
+    - interconnected-lattice-ring#51220475740445: went out of stock
+    - interconnected-lattice-hoops#51220475511069: went out of stock, price 218.00 -> 228.00
+    - interconnected-lattice-hoops#52782485733661: went out of stock, price 188.00 -> 198.00
+    - interconnected-lattice-ear-cuff#51220476395805: went out of stock, price 98.00 -> 118.00
+    - interconnected-diamond-letter-charm#51220474200349: went out of stock, price 298.00 -> 328.00
+    - interconnected-diamond-letter-charm#51220474233117: went out of stock, price 298.00 -> 328.00
+    - interconnected-diamond-letter-charm#51220474265885: went out of stock, price 298.00 -> 328.00
+    - interconnected-diamond-letter-charm#51220474298653: went out of stock, price 298.00 -> 328.00
+    - interconnected-diamond-letter-charm#51220474331421: went out of stock, price 298.00 -> 328.00
+    - interconnected-diamond-letter-charm#51220474364189: went out of stock, price 298.00 -> 328.00
+    - interconnected-diamond-letter-charm#51220474396957: went out of stock, price 298.00 -> 328.00
+    - interconnected-diamond-letter-charm#51220474429725: went out of stock, price 298.00 -> 328.00
+    - interconnected-diamond-letter-charm#51220474462493: went out of stock, price 298.00 -> 328.00
+    - interconnected-diamond-letter-charm#51220474495261: went out of stock, price 298.00 -> 328.00
+    - interconnected-diamond-letter-charm#51220474528029: went out of stock, price 298.00 -> 328.00
+    - interconnected-diamond-letter-charm#51220474560797: went out of stock, price 298.00 -> 328.00
+    - interconnected-diamond-letter-charm#51220474593565: went out of stock, price 298.00 -> 328.00
+    - interconnected-diamond-letter-charm#51220474626333: went out of stock, price 298.00 -> 328.00
+    - interconnected-diamond-letter-charm#51220474659101: went out of stock, price 298.00 -> 328.00
+    - interconnected-diamond-letter-charm#51220474691869: went out of stock, price 298.00 -> 328.00
+    - interconnected-diamond-letter-charm#51220474724637: price 298.00 -> 328.00
+    - interconnected-diamond-letter-charm#51220474757405: went out of stock, price 298.00 -> 328.00
+    - (detail truncated at 100 per category)
+- `shopify-brooklinen` HTTP 200 (1353ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (188ms) — 701 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (57ms) — 164 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (59ms) — 617 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (65ms) — 888 keys; 0 changed, 0 added, 0 gone
