@@ -2842,3 +2842,17 @@ Append-only. One block per run, written by [check.js](check.js).
     - NEW: 5436703008
     - 3 key(s) no longer in feed (deleted/unpublished, not a state change)
 - `jobs-databricks` HTTP 200 (48ms) — 882 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T19:09:22.927Z
+- `shopify-allbirds` HTTP 200 (554ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (608ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (638ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1304ms) — 3388 keys; 0 changed, 1 added, 6 gone
+    - NEW: bigtime-lounge-around-bundle-checkout#45575220297818
+    - 6 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `jobs-stripe` HTTP 200 (155ms) — 704 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (40ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (49ms) — 628 keys; 0 changed, 1 added, 0 gone
+    - NEW: 5166178008
+- `jobs-databricks` HTTP 200 (65ms) — 883 keys; 0 changed, 1 added, 0 gone
+    - NEW: 7698278002
