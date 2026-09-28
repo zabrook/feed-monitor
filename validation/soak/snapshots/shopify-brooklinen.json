@@ -2635,7 +2635,7 @@
  "test-classic-percale-core-sheet-set#42471224246362": "in|159.20",
  "test-classic-percale-core-sheet-set#42471224279130": "in|183.20",
  "test-classic-percale-core-sheet-set#42471224311898": "in|183.20",
- "test-classic-percale-core-sheet-set#42471224541274": "in|127.20",
+ "test-classic-percale-core-sheet-set#42471224541274": "out|127.20",
  "test-classic-percale-core-sheet-set#42471224574042": "in|127.20",
  "test-classic-percale-core-sheet-set#42471224606810": "in|151.20",
  "test-classic-percale-core-sheet-set#42471224639578": "in|159.20",
