@@ -2631,3 +2631,14 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (39ms) — 165 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (47ms) — 625 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (45ms) — 882 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T17:28:09.398Z
+- `shopify-allbirds` HTTP 200 (402ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (483ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (653ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1451ms) — 3401 keys; 1 changed, 0 added, 0 gone
+    - washed-classic-duvet-cover-last-call#43666131910746: went out of stock
+- `jobs-stripe` HTTP 200 (195ms) — 705 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (45ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (46ms) — 625 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (49ms) — 882 keys; 0 changed, 0 added, 0 gone
