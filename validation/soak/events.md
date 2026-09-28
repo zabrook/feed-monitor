@@ -2489,3 +2489,18 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (62ms) — 163 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (64ms) — 624 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (74ms) — 882 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T15:56:21.374Z
+- `shopify-allbirds` HTTP 200 (561ms) — 2720 keys; 1 changed, 0 added, 0 gone
+    - mens-cruiser-tweed-hazy-indigo#41393835016272: went out of stock
+- `shopify-gymshark` HTTP 200 (497ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (920ms) — 1534 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1393ms) — 3401 keys; 1 changed, 0 added, 0 gone
+    - luxe-duvet-cover#43350482124890: went out of stock
+- `jobs-stripe` HTTP 200 (102ms) — 704 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (58ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (64ms) — 624 keys; 3 changed, 0 added, 0 gone
+    - job 5392856008: updated 2026-08-21T12:51:05-04:00 -> 2026-09-28T11:52:02-04:00
+    - job 5413374008: updated 2026-09-08T20:26:16-04:00 -> 2026-09-28T11:54:37-04:00
+    - job 5368166008: updated 2026-08-21T12:50:43-04:00 -> 2026-09-28T11:48:48-04:00
+- `jobs-databricks` HTTP 200 (73ms) — 882 keys; 0 changed, 0 added, 0 gone
