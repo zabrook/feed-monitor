@@ -1542,3 +1542,30 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-anthropic` HTTP 200 (81ms) — 618 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (89ms) — 887 keys; 0 changed, 1 added, 0 gone
     - NEW: 8735828002
+
+### 2026-09-28T04:07:37.420Z
+- `shopify-allbirds` HTTP 200 (796ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (886ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (1669ms) — 1534 keys; 8 changed, 7 added, 18 gone
+    - diamond-tennis-necklace#50989795311901: price 6429.00 -> 6430.00
+    - diamond-tennis-necklace#50989795344669: price 6853.00 -> 6854.00
+    - diamond-tennis-necklace#50989795377437: price 6853.00 -> 6854.00
+    - diamond-tennis-necklace#50989795410205: price 6429.00 -> 6430.00
+    - lab-grown-diamond-tennis-bracelet-2-5mm#50989795049757: price 4239.00 -> 4240.00
+    - lab-grown-diamond-tennis-bracelet-2-5mm#50989795148061: price 4663.00 -> 4664.00
+    - lab-grown-diamond-tennis-bracelet-2-5mm#50989795180829: price 4663.00 -> 4664.00
+    - lab-grown-diamond-tennis-bracelet-2-5mm#50989795279133: price 4239.00 -> 4240.00
+    - NEW: open-dome-twist-earrings#51940040048925
+    - NEW: open-dome-pave-lab-grown-sapphire-drop-pendant-necklace#51940041294109
+    - NEW: open-dome-pave-lab-grown-sapphire-drop-pendant-necklace#51940041326877
+    - NEW: open-dome-pave-lab-grown-sapphire-drop-earrings#51940039655709
+    - NEW: open-dome-pave-lab-grown-sapphire-drop-earrings#51940039688477
+    - NEW: open-dome-drop-earrings#51940039852317
+    - NEW: open-dome-drop-earrings#51940039885085
+    - 18 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `shopify-brooklinen` HTTP 200 (2417ms) — 3401 keys; 1 changed, 0 added, 0 gone
+    - tufted-cotton-bath-mat#43696129474650: went out of stock
+- `jobs-stripe` HTTP 200 (282ms) — 699 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (81ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (88ms) — 618 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (89ms) — 887 keys; 0 changed, 0 added, 0 gone
