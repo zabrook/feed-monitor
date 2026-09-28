@@ -2571,3 +2571,15 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-anthropic` HTTP 200 (22790ms) — 625 keys; 0 changed, 1 added, 0 gone
     - NEW: 5435710008
 - `jobs-databricks` HTTP 200 (76ms) — 882 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T16:57:31.784Z
+- `shopify-allbirds` HTTP 200 (601ms) — 2720 keys; 2 changed, 0 added, 0 gone
+    - womens-tree-runner-go-natural-black-blizzard#40482722578512: went out of stock
+    - womens-wool-runner-up-mizzle-plus#39922515509328: went out of stock
+- `shopify-gymshark` HTTP 200 (477ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (871ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1364ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (91ms) — 706 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (65ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (64ms) — 625 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (68ms) — 882 keys; 0 changed, 0 added, 0 gone
