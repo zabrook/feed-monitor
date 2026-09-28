@@ -2324,3 +2324,14 @@ Append-only. One block per run, written by [check.js](check.js).
     - job 8506061002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-28T09:17:56-04:00
     - job 8509683002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-28T09:18:01-04:00
     - job 8568420002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-28T09:18:01-04:00
+
+### 2026-09-28T13:34:41.765Z
+- `shopify-allbirds` HTTP 200 (613ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (692ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (663ms) — 1534 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1428ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (137ms) — 703 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (62ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (58ms) — 624 keys; 0 changed, 0 added, 1 gone
+    - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `jobs-databricks` HTTP 200 (63ms) — 887 keys; 0 changed, 0 added, 0 gone
