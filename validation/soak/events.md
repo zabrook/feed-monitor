@@ -1378,3 +1378,43 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-anthropic` HTTP 200 (88ms) — 619 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (95ms) — 886 keys; 0 changed, 0 added, 1 gone
     - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
+
+### 2026-09-28T02:16:18.128Z
+- `shopify-allbirds` HTTP 200 (686ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (718ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (3180ms) — 1545 keys; 30 changed, 0 added, 0 gone
+    - lab-grown-diamond-tennis-necklace-1-8mm#50989794394397: price 4804.00 -> 4805.00
+    - lab-grown-diamond-tennis-necklace-1-8mm#50989794427165: price 4945.00 -> 4946.00
+    - lab-grown-diamond-tennis-necklace-1-8mm#50989794459933: price 4945.00 -> 4946.00
+    - lab-grown-diamond-tennis-necklace-1-8mm#50989794492701: price 4804.00 -> 4805.00
+    - diamond-tennis-necklace#50989795311901: price 6429.00 -> 6430.00
+    - diamond-tennis-necklace#50989795344669: price 6852.00 -> 6854.00
+    - diamond-tennis-necklace#50989795377437: price 6852.00 -> 6854.00
+    - diamond-tennis-necklace#50989795410205: price 6429.00 -> 6430.00
+    - lab-grown-diamond-tennis-bracelet-2-5mm#50989795049757: price 4239.00 -> 4240.00
+    - lab-grown-diamond-tennis-bracelet-2-5mm#50989795082525: price 4380.00 -> 4381.00
+    - lab-grown-diamond-tennis-bracelet-2-5mm#50989795115293: price 4521.00 -> 4523.00
+    - lab-grown-diamond-tennis-bracelet-2-5mm#50989795148061: price 4663.00 -> 4664.00
+    - lab-grown-diamond-tennis-bracelet-2-5mm#50989795180829: price 4663.00 -> 4664.00
+    - lab-grown-diamond-tennis-bracelet-2-5mm#50989795213597: price 4521.00 -> 4523.00
+    - lab-grown-diamond-tennis-bracelet-2-5mm#50989795246365: price 4380.00 -> 4381.00
+    - lab-grown-diamond-tennis-bracelet-2-5mm#50989795279133: price 4239.00 -> 4240.00
+    - diamond-tennis-bracelet-2-ct#50989794558237: price 3320.00 -> 3321.00
+    - diamond-tennis-bracelet-2-ct#50989794591005: price 3532.00 -> 3533.00
+    - diamond-tennis-bracelet-2-ct#50989794623773: price 3744.00 -> 3745.00
+    - diamond-tennis-bracelet-2-ct#50989794656541: price 3744.00 -> 3745.00
+    - diamond-tennis-bracelet-2-ct#50989794689309: price 3532.00 -> 3533.00
+    - diamond-tennis-bracelet-2-ct#50989794722077: price 3320.00 -> 3321.00
+    - lab-grown-diamond-tennis-bracelet-1-8mm#50989794787613: price 2261.00 -> 2262.00
+    - lab-grown-diamond-tennis-bracelet-1-8mm#50989794820381: price 2402.00 -> 2403.00
+    - lab-grown-diamond-tennis-bracelet-1-8mm#50989794853149: price 2543.00 -> 2544.00
+    - lab-grown-diamond-tennis-bracelet-1-8mm#50989794951453: price 2543.00 -> 2544.00
+    - lab-grown-diamond-tennis-bracelet-1-8mm#50989794984221: price 2402.00 -> 2403.00
+    - lab-grown-diamond-tennis-bracelet-1-8mm#50989795016989: price 2261.00 -> 2262.00
+    - diamond-tennis-bracelet#50989795442973: price 2261.00 -> 2262.00
+    - diamond-tennis-bracelet#50989795672349: price 2261.00 -> 2262.00
+- `shopify-brooklinen` HTTP 200 (1405ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (815ms) — 701 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (487ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (86ms) — 619 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (95ms) — 886 keys; 0 changed, 0 added, 0 gone
