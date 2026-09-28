@@ -1112,3 +1112,24 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (63ms) — 163 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (62ms) — 619 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (67ms) — 888 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T00:03:53.145Z
+- `shopify-allbirds` HTTP 200 (437ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (685ms) — 1685 keys; 1 changed, 0 added, 0 gone
+    - gymshark-power-washed-cuff-joggers-pants#39796882178250: went out of stock
+- `shopify-mejuri` HTTP 200 (757ms) — 1545 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1276ms) — 3401 keys; 10 changed, 0 added, 0 gone
+    - dreamweave-waffle-robe-last-call#43768600166490: went out of stock
+    - test-classic-percale-duvet-cover#42471220936794: went out of stock
+    - luxe-hardcore-bundle-mib#43380360544346: RESTOCKED
+    - luxe-hardcore-bundle-mib#43380360609882: RESTOCKED
+    - luxe-hardcore-bundle-mib#43380361035866: went out of stock
+    - luxe-hardcore-bundle-mib#43380360740954: went out of stock
+    - luxe-hardcore-bundle-mib#43380360839258: went out of stock
+    - luxe-hardcore-bundle-mib#43393088913498: went out of stock
+    - luxe-hardcore-bundle-mib#43393089241178: went out of stock
+    - luxe-core-sheet-set#43350205235290: RESTOCKED
+- `jobs-stripe` HTTP 200 (198ms) — 701 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (62ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (64ms) — 619 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (68ms) — 888 keys; 0 changed, 0 added, 0 gone
