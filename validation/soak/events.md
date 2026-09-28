@@ -1365,3 +1365,16 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (82ms) — 163 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (85ms) — 619 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (85ms) — 887 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T02:06:10.651Z
+- `shopify-allbirds` HTTP 200 (760ms) — 2720 keys; 2 changed, 0 added, 0 gone
+    - smallbirds-wool-runners-big-kids-natural-white-fluffs#39803963572304: went out of stock
+    - smallbirds-wool-runners-big-kids-natural-white-fluffs#39803963605072: went out of stock
+- `shopify-gymshark` HTTP 200 (607ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (1904ms) — 1545 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1443ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (360ms) — 701 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (81ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (88ms) — 619 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (95ms) — 886 keys; 0 changed, 0 added, 1 gone
+    - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
