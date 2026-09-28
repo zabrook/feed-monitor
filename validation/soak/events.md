@@ -2934,3 +2934,16 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (41ms) — 165 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (44ms) — 628 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (47ms) — 884 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T20:30:20.473Z
+- `shopify-allbirds` HTTP 200 (553ms) — 2720 keys; 1 changed, 0 added, 0 gone
+    - mens-tree-dasher-relay-stony-cream-rugged-beige#41222407651408: went out of stock
+- `shopify-gymshark` HTTP 200 (560ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (657ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1932ms) — 3388 keys; 1 changed, 0 added, 0 gone
+    - micro-waffle-shams-last-call#43874679226458: RESTOCKED
+- `jobs-stripe` HTTP 200 (220ms) — 703 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (78ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (42ms) — 627 keys; 0 changed, 0 added, 1 gone
+    - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `jobs-databricks` HTTP 200 (49ms) — 884 keys; 0 changed, 0 added, 0 gone
