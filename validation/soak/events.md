@@ -1622,3 +1622,17 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (79ms) — 163 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (79ms) — 618 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (88ms) — 887 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T05:08:22.690Z
+- `shopify-allbirds` HTTP 200 (720ms) — 2720 keys; 1 changed, 0 added, 0 gone
+    - womens-soft-merino-tee-medium-grey#40207967584336: went out of stock
+- `shopify-gymshark` HTTP 200 (996ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (1909ms) — 1534 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1547ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (4303ms) — 700 keys; 0 changed, 1 added, 0 gone
+    - NEW: 7553098
+- `jobs-figma` HTTP 200 (84ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (84ms) — 618 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (86ms) — 888 keys; 1 changed, 1 added, 0 gone
+    - job 8620285002: updated 2026-09-25T17:34:40-04:00 -> 2026-09-28T01:01:33-04:00
+    - NEW: 8849669002
