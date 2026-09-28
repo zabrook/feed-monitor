@@ -2947,3 +2947,15 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-anthropic` HTTP 200 (42ms) — 627 keys; 0 changed, 0 added, 1 gone
     - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
 - `jobs-databricks` HTTP 200 (49ms) — 884 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T20:40:26.580Z
+- `shopify-allbirds` HTTP 200 (699ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (410ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (760ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1482ms) — 3388 keys; 1 changed, 0 added, 0 gone
+    - micro-waffle-shams-last-call#43874679226458: went out of stock
+- `jobs-stripe` HTTP 200 (129ms) — 703 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (43ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (44ms) — 628 keys; 0 changed, 1 added, 0 gone
+    - NEW: 5436293008
+- `jobs-databricks` HTTP 200 (47ms) — 884 keys; 0 changed, 0 added, 0 gone
