@@ -2352,3 +2352,14 @@ Append-only. One block per run, written by [check.js](check.js).
     - job 5382518008: updated 2026-09-25T11:28:55-04:00 -> 2026-09-28T09:42:19-04:00
 - `jobs-databricks` HTTP 200 (69ms) — 887 keys; 1 changed, 0 added, 0 gone
     - job 8790621002: updated 2026-09-23T18:58:58-04:00 -> 2026-09-28T09:40:17-04:00
+
+### 2026-09-28T13:54:52.356Z
+- `shopify-allbirds` HTTP 200 (854ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (462ms) — 1685 keys; 1 changed, 0 added, 0 gone
+    - gymshark-locked-in-graphic-jogger-pants#39796628455626: RESTOCKED
+- `shopify-mejuri` HTTP 200 (765ms) — 1534 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1133ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (111ms) — 703 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (62ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (64ms) — 624 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (64ms) — 887 keys; 0 changed, 0 added, 0 gone
