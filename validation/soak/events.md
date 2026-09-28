@@ -2307,3 +2307,20 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (61ms) — 163 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (66ms) — 625 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (67ms) — 887 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T13:24:36.452Z
+- `shopify-allbirds` HTTP 200 (722ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (488ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (633ms) — 1534 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1037ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (115ms) — 703 keys; 2 changed, 1 added, 0 gone
+    - job 7997545: updated 2026-09-25T16:44:46-04:00 -> 2026-09-28T09:21:28-04:00
+    - job 8148497: updated 2026-09-28T09:05:59-04:00 -> 2026-09-28T09:16:52-04:00
+    - NEW: 8236757
+- `jobs-figma` HTTP 200 (65ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (65ms) — 625 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (92ms) — 887 keys; 4 changed, 0 added, 0 gone
+    - job 8686323002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-28T09:18:05-04:00
+    - job 8506061002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-28T09:17:56-04:00
+    - job 8509683002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-28T09:18:01-04:00
+    - job 8568420002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-28T09:18:01-04:00
