@@ -2543,3 +2543,18 @@ Append-only. One block per run, written by [check.js](check.js).
     - job 8569548002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-28T12:19:51-04:00
     - job 8646549002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-28T12:20:07-04:00
     - job 8625462002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-28T12:19:57-04:00
+
+### 2026-09-28T16:36:49.653Z
+- `shopify-allbirds` HTTP 200 (694ms) — 2720 keys; 2 changed, 0 added, 0 gone
+    - mens-cruiser-blizzard-dark-navy#41243357839440: went out of stock
+    - mens-tree-gliders-blizzard-hanami-blue#40832425099344: went out of stock
+- `shopify-gymshark` HTTP 200 (596ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (812ms) — 1535 keys; 0 changed, 1 added, 0 gone
+    - NEW: two-of-hearts-necklace#67607737532701
+- `shopify-brooklinen` HTTP 200 (1466ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (560ms) — 705 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (65ms) — 165 keys; 1 changed, 1 added, 0 gone
+    - job 6208999004: updated 2026-09-28T12:14:58-04:00 -> 2026-09-28T12:31:06-04:00
+    - NEW: 6208862004
+- `jobs-anthropic` HTTP 200 (66ms) — 624 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (5736ms) — 882 keys; 0 changed, 0 added, 0 gone
