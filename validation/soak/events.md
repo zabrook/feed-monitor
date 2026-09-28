@@ -2734,3 +2734,60 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (42ms) — 165 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (45ms) — 626 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (66ms) — 881 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T18:49:04.103Z
+- `shopify-allbirds` HTTP 200 (781ms) — 2720 keys; 1 changed, 0 added, 0 gone
+    - womens-cruiser-remix#41243736473680: went out of stock
+- `shopify-gymshark` HTTP 200 (473ms) — 1689 keys; 0 changed, 42 added, 38 gone
+    - NEW: gymshark-running-5-shorts-shorts-green-aw26-a3b9q-edky#39799438835914
+    - NEW: gymshark-running-5-shorts-shorts-green-aw26-a3b9q-edky#39799480877258
+    - NEW: gymshark-running-5-shorts-shorts-green-aw26-a3b9q-edky#39799503880394
+    - NEW: gymshark-running-5-shorts-shorts-green-aw26-a3b9q-edky#39799508730058
+    - NEW: gymshark-running-5-shorts-shorts-green-aw26-a3b9q-edky#39799508861130
+    - NEW: gymshark-running-5-shorts-shorts-green-aw26-a3b9q-edky#39799523541194
+    - NEW: gymshark-running-5-shorts-shorts-green-aw26-a3b9q-edky#39799523573962
+    - NEW: gymshark-power-t-shirt-ss-tops-brown-aw26-a4b9w-ndlf#39799423992010
+    - NEW: gymshark-power-t-shirt-ss-tops-brown-aw26-a4b9w-ndlf#39799424123082
+    - NEW: gymshark-power-t-shirt-ss-tops-brown-aw26-a4b9w-ndlf#39799424188618
+    - NEW: gymshark-power-t-shirt-ss-tops-brown-aw26-a4b9w-ndlf#39799424319690
+    - NEW: gymshark-power-t-shirt-ss-tops-brown-aw26-a4b9w-ndlf#39799439917258
+    - NEW: gymshark-power-t-shirt-ss-tops-brown-aw26-a4b9w-ndlf#39799441883338
+    - NEW: gymshark-power-t-shirt-ss-tops-brown-aw26-a4b9w-ndlf#39799448371402
+    - NEW: gymshark-running-elite-reg-fit-t-shirt-ss-tops-white-aw26#39799439425738
+    - NEW: gymshark-running-elite-reg-fit-t-shirt-ss-tops-white-aw26#39799481368778
+    - NEW: gymshark-running-elite-reg-fit-t-shirt-ss-tops-white-aw26#39799486742730
+    - NEW: gymshark-running-elite-reg-fit-t-shirt-ss-tops-white-aw26#39799486873802
+    - NEW: gymshark-running-elite-reg-fit-t-shirt-ss-tops-white-aw26#39799486972106
+    - NEW: gymshark-running-elite-reg-fit-t-shirt-ss-tops-white-aw26#39799488413898
+    - NEW: gymshark-running-elite-reg-fit-t-shirt-ss-tops-white-aw26#39799503388874
+    - NEW: gymshark-running-elite-windbreaker-jackets-outerwear-black-aw26#39799327228106
+    - NEW: gymshark-running-elite-windbreaker-jackets-outerwear-black-aw26#39799327326410
+    - NEW: gymshark-running-elite-windbreaker-jackets-outerwear-black-aw26#39799327686858
+    - NEW: gymshark-running-elite-windbreaker-jackets-outerwear-black-aw26#39799327752394
+    - NEW: gymshark-running-elite-windbreaker-jackets-outerwear-black-aw26#39799328309450
+    - NEW: gymshark-running-elite-windbreaker-jackets-outerwear-black-aw26#39799338729674
+    - NEW: gymshark-running-elite-windbreaker-jackets-outerwear-black-aw26#39799343251658
+    - NEW: gymshark-running-elite-boxy-race-vest-sleeveless-tops-grey-aw26#39798798778570
+    - NEW: gymshark-running-elite-boxy-race-vest-sleeveless-tops-grey-aw26#39798846292170
+    - NEW: gymshark-running-elite-boxy-race-vest-sleeveless-tops-grey-aw26#39798889119946
+    - NEW: gymshark-running-elite-boxy-race-vest-sleeveless-tops-grey-aw26#39798899966154
+    - NEW: gymshark-running-elite-boxy-race-vest-sleeveless-tops-grey-aw26#39798993223882
+    - NEW: gymshark-running-elite-boxy-race-vest-sleeveless-tops-grey-aw26#39799085662410
+    - NEW: gymshark-running-elite-boxy-race-vest-sleeveless-tops-grey-aw26#39799148052682
+    - NEW: gymshark-sport-hybrid-short-shorts-blue-aw26#39797123088586
+    - NEW: gymshark-sport-hybrid-short-shorts-blue-aw26#39797123416266
+    - NEW: gymshark-sport-hybrid-short-shorts-blue-aw26#39797123678410
+    - NEW: gymshark-sport-hybrid-short-shorts-blue-aw26#39797124006090
+    - NEW: gymshark-sport-hybrid-short-shorts-blue-aw26#39797124235466
+    - NEW: gymshark-sport-hybrid-short-shorts-blue-aw26#39797126234314
+    - NEW: gymshark-sport-hybrid-short-shorts-blue-aw26#39797126561994
+    - 38 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `shopify-mejuri` HTTP 200 (841ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1349ms) — 3393 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (160ms) — 704 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (323ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (3409ms) — 626 keys; 2 changed, 0 added, 0 gone
+    - job 5238296008: updated 2026-08-21T12:50:18-04:00 -> 2026-09-28T14:48:23-04:00
+    - job 5400012008: updated 2026-09-01T12:50:54-04:00 -> 2026-09-28T14:49:01-04:00
+- `jobs-databricks` HTTP 200 (45ms) — 882 keys; 0 changed, 1 added, 0 gone
+    - NEW: 8593373002
