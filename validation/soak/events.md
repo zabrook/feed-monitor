@@ -2504,3 +2504,17 @@ Append-only. One block per run, written by [check.js](check.js).
     - job 5413374008: updated 2026-09-08T20:26:16-04:00 -> 2026-09-28T11:54:37-04:00
     - job 5368166008: updated 2026-08-21T12:50:43-04:00 -> 2026-09-28T11:48:48-04:00
 - `jobs-databricks` HTTP 200 (73ms) — 882 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T16:06:27.399Z
+- `shopify-allbirds` HTTP 200 (400ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (463ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (956ms) — 1534 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (2006ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (151ms) — 705 keys; 1 changed, 1 added, 0 gone
+    - job 7958961: updated 2026-09-25T16:44:44-04:00 -> 2026-09-28T12:00:15-04:00
+    - NEW: 8224915
+- `jobs-figma` HTTP 200 (68ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (63ms) — 624 keys; 2 changed, 0 added, 0 gone
+    - job 5392856008: updated 2026-09-28T11:52:02-04:00 -> 2026-09-28T12:03:20-04:00
+    - job 5368166008: updated 2026-09-28T11:48:48-04:00 -> 2026-09-28T12:01:39-04:00
+- `jobs-databricks` HTTP 200 (78ms) — 882 keys; 0 changed, 0 added, 0 gone
