@@ -1186,3 +1186,114 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (61ms) — 163 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (59ms) — 619 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (68ms) — 887 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T00:54:44.897Z
+- `shopify-allbirds` HTTP 200 (720ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (634ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (1814ms) — 1545 keys; 1529 changed, 0 added, 0 gone
+    - margot-hinge-cuff#51035464040733: RESTOCKED
+    - margot-hinge-cuff#51035464073501: RESTOCKED
+    - margot-hinge-cuff#51035464106269: RESTOCKED
+    - margot-hinge-cuff#51316124320029: price 198.00 -> 140.00
+    - margot-hinge-cuff#51316124352797: price 198.00 -> 140.00
+    - margot-hinge-cuff#51316124385565: price 198.00 -> 140.00
+    - open-dome-river-ring#51315728482589: RESTOCKED, price 598.00 -> 538.00
+    - open-dome-river-ring#51315728515357: RESTOCKED, price 598.00 -> 538.00
+    - open-dome-river-ring#51315728548125: RESTOCKED, price 598.00 -> 538.00
+    - open-dome-river-ring#51315728580893: RESTOCKED, price 598.00 -> 538.00
+    - open-dome-river-ring#51315728613661: RESTOCKED, price 598.00 -> 538.00
+    - open-dome-river-ring#51315728646429: RESTOCKED, price 598.00 -> 538.00
+    - open-dome-river-ring#51315728679197: RESTOCKED, price 598.00 -> 538.00
+    - twin-open-dome-river-ring#51315728744733: RESTOCKED, price 948.00 -> 838.00
+    - twin-open-dome-river-ring#51315728777501: RESTOCKED, price 948.00 -> 838.00
+    - twin-open-dome-river-ring#51315728810269: RESTOCKED, price 948.00 -> 838.00
+    - twin-open-dome-river-ring#51315728843037: RESTOCKED, price 948.00 -> 838.00
+    - twin-open-dome-river-ring#51315728875805: RESTOCKED, price 948.00 -> 838.00
+    - twin-open-dome-river-ring#51315728908573: RESTOCKED, price 948.00 -> 838.00
+    - twin-open-dome-river-ring#51315728941341: RESTOCKED, price 948.00 -> 838.00
+    - open-dome-river-drop-earrings#51315728449821: RESTOCKED, price 798.00 -> 718.00
+    - open-dome-river-charm#51315728711965: RESTOCKED, price 598.00 -> 538.00
+    - interconnected-sideline-tennis-bracelet#51220476133661: price 1200.00 -> 1100.00
+    - interconnected-sideline-tennis-bracelet#51220476166429: RESTOCKED, price 1300.00 -> 1200.00
+    - interconnected-sideline-tennis-bracelet#51220476199197: RESTOCKED, price 1400.00 -> 1300.00
+    - interconnected-sideline-tennis-bracelet#51220476231965: RESTOCKED, price 1500.00 -> 1400.00
+    - single-interconnected-x-pave-diamond-stud#51220475805981: RESTOCKED
+    - single-interconnected-strike-pave-diamond-stud#51220475117853: RESTOCKED
+    - piercing-studio-single-interconnected-x-diamond-stud#51220475773213: RESTOCKED, price 198.00 -> 178.00
+    - piercing-studio-interconnected-strike-pave-diamond-stud#51220475969821: RESTOCKED, price 198.00 -> 178.00
+    - interconnected-pave-diamond-x-necklace#51220475085085: RESTOCKED, price 998.00 -> 898.00
+    - interconnected-x-lariat-necklace#51220474102045: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-x-drop-earrings#51220474167581: RESTOCKED, price 158.00 -> 138.00
+    - interconnected-tennis-cuff#52749498450205: RESTOCKED, price 528.00 -> 478.00
+    - interconnected-tennis-cuff#52749498482973: RESTOCKED, price 578.00 -> 518.00
+    - interconnected-tennis-cuff#52749498515741: RESTOCKED, price 628.00 -> 558.00
+    - interconnected-tennis-cuff#52749498548509: RESTOCKED, price 678.00 -> 598.00
+    - interconnected-tennis-cuff#51220475150621: RESTOCKED, price 5200.00 -> 4700.00
+    - interconnected-tennis-cuff#51220475183389: RESTOCKED, price 5400.00 -> 4900.00
+    - interconnected-tennis-cuff#51220475216157: RESTOCKED, price 5600.00 -> 5100.00
+    - interconnected-tennis-cuff#51220475248925: RESTOCKED, price 5800.00 -> 5300.00
+    - interconnected-tennis-bracelet#52753334829341: RESTOCKED, price 748.00 -> 658.00
+    - interconnected-tennis-bracelet#52753334862109: RESTOCKED, price 798.00 -> 698.00
+    - interconnected-tennis-bracelet#52753334894877: RESTOCKED, price 848.00 -> 738.00
+    - interconnected-tennis-bracelet#52753334927645: RESTOCKED, price 898.00 -> 778.00
+    - interconnected-tennis-bracelet#51220476690717: RESTOCKED, price 7500.00 -> 6600.00
+    - interconnected-tennis-bracelet#51220476723485: RESTOCKED, price 7700.00 -> 6800.00
+    - interconnected-tennis-bracelet#51220476756253: RESTOCKED, price 7900.00 -> 7000.00
+    - interconnected-tennis-bracelet#51220476789021: RESTOCKED, price 8100.00 -> 7200.00
+    - interconnected-pave-diamond-open-ring#51220476461341: RESTOCKED, price 798.00 -> 718.00
+    - interconnected-pave-diamond-open-ring#51220476494109: RESTOCKED, price 798.00 -> 718.00
+    - interconnected-pave-diamond-open-ring#51220476526877: RESTOCKED, price 798.00 -> 718.00
+    - interconnected-pave-diamond-open-ring#51220476559645: RESTOCKED, price 798.00 -> 718.00
+    - interconnected-pave-diamond-open-ring#51220476592413: RESTOCKED, price 798.00 -> 718.00
+    - interconnected-pave-diamond-open-ring#51220476625181: RESTOCKED, price 798.00 -> 718.00
+    - interconnected-pave-diamond-open-ring#51220476657949: RESTOCKED, price 798.00 -> 718.00
+    - interconnected-pave-diamond-hoops#51220475052317: RESTOCKED, price 948.00 -> 838.00
+    - interconnected-pave-diamond-floating-ring#51220475281693: RESTOCKED, price 998.00 -> 898.00
+    - interconnected-pave-diamond-floating-ring#51220475314461: RESTOCKED, price 998.00 -> 898.00
+    - interconnected-pave-diamond-floating-ring#51220475347229: RESTOCKED, price 998.00 -> 898.00
+    - interconnected-pave-diamond-floating-ring#51220475379997: RESTOCKED, price 998.00 -> 898.00
+    - interconnected-pave-diamond-floating-ring#51220475412765: RESTOCKED, price 998.00 -> 898.00
+    - interconnected-pave-diamond-floating-ring#51220475445533: RESTOCKED, price 998.00 -> 898.00
+    - interconnected-pave-diamond-floating-ring#51220475478301: RESTOCKED, price 998.00 -> 898.00
+    - interconnected-pave-diamond-floating-hoops#51220476887325: RESTOCKED, price 998.00 -> 898.00
+    - interconnected-lattice-ring#51220475543837: RESTOCKED
+    - interconnected-lattice-ring#51220475576605: RESTOCKED
+    - interconnected-lattice-ring#51220475609373: RESTOCKED
+    - interconnected-lattice-ring#51220475642141: RESTOCKED
+    - interconnected-lattice-ring#51220475674909: RESTOCKED
+    - interconnected-lattice-ring#51220475707677: RESTOCKED
+    - interconnected-lattice-ring#51220475740445: RESTOCKED
+    - interconnected-lattice-hoops#51220475511069: RESTOCKED, price 228.00 -> 218.00
+    - interconnected-lattice-hoops#52782485733661: RESTOCKED, price 198.00 -> 188.00
+    - interconnected-lattice-ear-cuff#51220476395805: RESTOCKED, price 118.00 -> 98.00
+    - interconnected-diamond-letter-charm#51220474200349: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474233117: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474265885: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474298653: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474331421: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474364189: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474396957: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474429725: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474462493: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474495261: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474528029: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474560797: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474593565: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474626333: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474659101: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474691869: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474724637: price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474757405: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474790173: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474822941: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474855709: price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474888477: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474921245: RESTOCKED, price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474954013: price 328.00 -> 298.00
+    - interconnected-diamond-letter-charm#51220474986781: RESTOCKED, price 328.00 -> 298.00
+    - (detail truncated at 100 per category)
+- `shopify-brooklinen` HTTP 200 (1983ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (584ms) — 701 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (88ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (103ms) — 619 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (90ms) — 887 keys; 0 changed, 0 added, 0 gone
