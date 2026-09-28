@@ -2558,3 +2558,16 @@ Append-only. One block per run, written by [check.js](check.js).
     - NEW: 6208862004
 - `jobs-anthropic` HTTP 200 (66ms) — 624 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (5736ms) — 882 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T16:47:03.129Z
+- `shopify-allbirds` HTTP 200 (545ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (518ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (957ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1314ms) — 3401 keys; 1 changed, 0 added, 0 gone
+    - luxe-duvet-cover#43350482124890: RESTOCKED
+- `jobs-stripe` HTTP 200 (129ms) — 706 keys; 0 changed, 1 added, 0 gone
+    - NEW: 8196267
+- `jobs-figma` HTTP 200 (63ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (22790ms) — 625 keys; 0 changed, 1 added, 0 gone
+    - NEW: 5435710008
+- `jobs-databricks` HTTP 200 (76ms) — 882 keys; 0 changed, 0 added, 0 gone
