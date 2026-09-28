@@ -2959,3 +2959,22 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-anthropic` HTTP 200 (44ms) — 628 keys; 0 changed, 1 added, 0 gone
     - NEW: 5436293008
 - `jobs-databricks` HTTP 200 (47ms) — 884 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T20:50:32.355Z
+- `shopify-allbirds` HTTP 200 (783ms) — 2720 keys; 1 changed, 0 added, 0 gone
+    - womens-lounger-lift-stony-cream#40837909381200: went out of stock
+- `shopify-gymshark` HTTP 200 (513ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (720ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1502ms) — 3380 keys; 3 changed, 1 added, 9 gone
+    - washed-european-linen-lumbar-pillow-cover-last-call#43873243299930: RESTOCKED
+    - luxe-duvet-cover#43350482124890: went out of stock
+    - luxe-core-sheet-set#43350426943578: went out of stock
+    - NEW: super-plush-complete-get-ready-bundle-checkout#45576041365594
+    - 9 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `jobs-stripe` HTTP 200 (150ms) — 703 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (40ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (39ms) — 627 keys; 1 changed, 0 added, 1 gone
+    - job 5436293008: updated 2026-09-28T16:31:13-04:00 -> 2026-09-28T16:48:57-04:00
+    - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `jobs-databricks` HTTP 200 (45ms) — 884 keys; 1 changed, 0 added, 0 gone
+    - job 8569506002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-28T16:46:54-04:00
