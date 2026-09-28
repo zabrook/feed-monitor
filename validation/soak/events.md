@@ -2335,3 +2335,20 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-anthropic` HTTP 200 (58ms) — 624 keys; 0 changed, 0 added, 1 gone
     - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
 - `jobs-databricks` HTTP 200 (63ms) — 887 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T13:44:47.599Z
+- `shopify-allbirds` HTTP 200 (707ms) — 2720 keys; 2 changed, 0 added, 0 gone
+    - womens-lounger-lift-hazy-burgundy-stony-cream#40837908824144: went out of stock
+    - womens-tree-dashers-blizzard-thunder-red#40444542746704: went out of stock
+- `shopify-gymshark` HTTP 200 (422ms) — 1685 keys; 3 changed, 0 added, 0 gone
+    - gymshark-oversized-performance-tank-sleeveless-tops-blue-aw26#39798990504138: RESTOCKED
+    - gymshark-light-hold-shorts-gs-stealth-blue#39796792230090: RESTOCKED
+    - gymshark-sport-7-shorts-shorts-blue-aw25#39794540937418: RESTOCKED
+- `shopify-mejuri` HTTP 200 (773ms) — 1534 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (305ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (282ms) — 703 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (64ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (60ms) — 624 keys; 1 changed, 0 added, 0 gone
+    - job 5382518008: updated 2026-09-25T11:28:55-04:00 -> 2026-09-28T09:42:19-04:00
+- `jobs-databricks` HTTP 200 (69ms) — 887 keys; 1 changed, 0 added, 0 gone
+    - job 8790621002: updated 2026-09-23T18:58:58-04:00 -> 2026-09-28T09:40:17-04:00
