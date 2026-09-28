@@ -2703,3 +2703,23 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-anthropic` HTTP 200 (48ms) — 624 keys; 0 changed, 0 added, 1 gone
     - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
 - `jobs-databricks` HTTP 200 (48ms) — 882 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T18:28:49.651Z
+- `shopify-allbirds` HTTP 200 (554ms) — 2720 keys; 7 changed, 0 added, 0 gone
+    - mens-canvas-runner-nz#41884547022928: RESTOCKED
+    - mens-dasher-nz-light-burnt-olive#41271198842960: RESTOCKED
+    - mens-dasher-nz-light-burnt-olive#41271198908496: RESTOCKED
+    - womens-cruiser-canvas-anthracite#41271180886096: RESTOCKED
+    - mens-varsity-airy#41271124328528: RESTOCKED
+    - womens-tree-runner-nz-dark-navy#41206423421008: RESTOCKED
+    - womens-tree-runner-nz-dark-navy#41206423584848: RESTOCKED
+- `shopify-gymshark` HTTP 200 (451ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (797ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1438ms) — 3393 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (2874ms) — 704 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (40ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (44ms) — 626 keys; 0 changed, 2 added, 0 gone
+    - NEW: 5435343008
+    - NEW: 5430939008
+- `jobs-databricks` HTTP 200 (48ms) — 881 keys; 0 changed, 0 added, 1 gone
+    - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
