@@ -2723,3 +2723,14 @@ Append-only. One block per run, written by [check.js](check.js).
     - NEW: 5430939008
 - `jobs-databricks` HTTP 200 (48ms) — 881 keys; 0 changed, 0 added, 1 gone
     - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
+
+### 2026-09-28T18:38:58.064Z
+- `shopify-allbirds` HTTP 200 (842ms) — 2720 keys; 1 changed, 0 added, 0 gone
+    - womens-wool-runner-up-mizzles-natural-black-natural-white#39812341039184: went out of stock
+- `shopify-gymshark` HTTP 200 (498ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (704ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1563ms) — 3393 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (199ms) — 704 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (42ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (45ms) — 626 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (66ms) — 881 keys; 0 changed, 0 added, 0 gone
