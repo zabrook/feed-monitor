@@ -2856,3 +2856,15 @@ Append-only. One block per run, written by [check.js](check.js).
     - NEW: 5166178008
 - `jobs-databricks` HTTP 200 (65ms) — 883 keys; 0 changed, 1 added, 0 gone
     - NEW: 7698278002
+
+### 2026-09-28T19:19:28.583Z
+- `shopify-allbirds` HTTP 200 (549ms) — 2720 keys; 1 changed, 0 added, 0 gone
+    - mens-tree-runner-go-utility-natural-black-dark-jungle#41222404243536: went out of stock
+- `shopify-gymshark` HTTP 200 (492ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (658ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1777ms) — 3388 keys; 1 changed, 0 added, 0 gone
+    - washed-european-linen-lumbar-pillow-cover-last-call#43873243299930: went out of stock
+- `jobs-stripe` HTTP 200 (179ms) — 704 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (36ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (42ms) — 628 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (49ms) — 883 keys; 0 changed, 0 added, 0 gone
