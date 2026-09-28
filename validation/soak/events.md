@@ -2642,3 +2642,14 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (45ms) — 165 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (46ms) — 625 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (49ms) — 882 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T17:38:14.786Z
+- `shopify-allbirds` HTTP 200 (789ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (455ms) — 1685 keys; 1 changed, 0 added, 0 gone
+    - gymshark-light-hold-shorts-gs-stealth-blue#39796792230090: went out of stock
+- `shopify-mejuri` HTTP 200 (635ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1234ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (134ms) — 705 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (37ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (49ms) — 625 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (52ms) — 882 keys; 0 changed, 0 added, 0 gone
