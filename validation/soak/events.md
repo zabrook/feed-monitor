@@ -1462,3 +1462,27 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-anthropic` HTTP 200 (88ms) — 618 keys; 0 changed, 0 added, 1 gone
     - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
 - `jobs-databricks` HTTP 200 (91ms) — 886 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T03:06:56.839Z
+- `shopify-allbirds` HTTP 200 (644ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (622ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (1519ms) — 1545 keys; 14 changed, 0 added, 0 gone
+    - diamond-tennis-necklace#50989795311901: price 6430.00 -> 6429.00
+    - diamond-tennis-necklace#50989795344669: price 6854.00 -> 6853.00
+    - diamond-tennis-necklace#50989795377437: price 6854.00 -> 6853.00
+    - diamond-tennis-necklace#50989795410205: price 6430.00 -> 6429.00
+    - lab-grown-diamond-tennis-bracelet-2-5mm#50989795049757: price 4240.00 -> 4239.00
+    - lab-grown-diamond-tennis-bracelet-2-5mm#50989795115293: price 4523.00 -> 4522.00
+    - lab-grown-diamond-tennis-bracelet-2-5mm#50989795148061: price 4664.00 -> 4663.00
+    - lab-grown-diamond-tennis-bracelet-2-5mm#50989795180829: price 4664.00 -> 4663.00
+    - lab-grown-diamond-tennis-bracelet-2-5mm#50989795213597: price 4523.00 -> 4522.00
+    - lab-grown-diamond-tennis-bracelet-2-5mm#50989795279133: price 4240.00 -> 4239.00
+    - lab-grown-diamond-tennis-bracelet-1-8mm#50989794787613: price 2262.00 -> 2261.00
+    - lab-grown-diamond-tennis-bracelet-1-8mm#50989795016989: price 2262.00 -> 2261.00
+    - diamond-tennis-bracelet#50989795442973: price 2262.00 -> 2261.00
+    - diamond-tennis-bracelet#50989795672349: price 2262.00 -> 2261.00
+- `shopify-brooklinen` HTTP 200 (1448ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (655ms) — 699 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (88ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (93ms) — 618 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (105ms) — 886 keys; 0 changed, 0 added, 0 gone
