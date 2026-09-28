@@ -1297,3 +1297,14 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (88ms) — 163 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (103ms) — 619 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (90ms) — 887 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T01:04:53.213Z
+- `shopify-allbirds` HTTP 200 (685ms) — 2720 keys; 1 changed, 0 added, 0 gone
+    - mens-wool-runner-nz-mid-waterproof-weathered-brown#41315597942864: went out of stock
+- `shopify-gymshark` HTTP 200 (709ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (1835ms) — 1545 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1337ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (310ms) — 701 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (86ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (81ms) — 619 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (88ms) — 887 keys; 0 changed, 0 added, 0 gone
