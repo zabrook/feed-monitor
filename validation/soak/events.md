@@ -1308,3 +1308,20 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (86ms) — 163 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (81ms) — 619 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (88ms) — 887 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T01:15:00.428Z
+- `shopify-allbirds` HTTP 200 (674ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (706ms) — 1685 keys; 1 changed, 0 added, 0 gone
+    - gymshark-conditioning-club-4-shorts-shorts-grey-aw26#39797118697674: went out of stock
+- `shopify-mejuri` HTTP 200 (1907ms) — 1545 keys; 6 changed, 0 added, 0 gone
+    - diamond-tennis-necklace#50989795344669: price 6853.00 -> 6852.00
+    - diamond-tennis-necklace#50989795377437: price 6853.00 -> 6852.00
+    - diamond-tennis-bracelet-2-ct#50989794558237: price 3321.00 -> 3320.00
+    - diamond-tennis-bracelet-2-ct#50989794722077: price 3321.00 -> 3320.00
+    - lab-grown-diamond-tennis-bracelet-1-8mm#50989794853149: price 2544.00 -> 2543.00
+    - lab-grown-diamond-tennis-bracelet-1-8mm#50989794951453: price 2544.00 -> 2543.00
+- `shopify-brooklinen` HTTP 200 (3115ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (269ms) — 701 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (85ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (33554ms) — 619 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (92ms) — 887 keys; 0 changed, 0 added, 0 gone
