@@ -1672,3 +1672,16 @@ Append-only. One block per run, written by [check.js](check.js).
     - NEW: 6191316004
 - `jobs-anthropic` HTTP 200 (220ms) — 618 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (89ms) — 887 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-28T05:48:58.235Z
+- `shopify-allbirds` HTTP 200 (899ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (820ms) — 1685 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (2167ms) — 1534 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (2004ms) — 3401 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (403ms) — 701 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (85ms) — 164 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (90ms) — 617 keys; 0 changed, 0 added, 1 gone
+    - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `jobs-databricks` HTTP 200 (107ms) — 888 keys; 1 changed, 1 added, 0 gone
+    - job 8099751002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-28T01:46:53-04:00
+    - NEW: 8015848002
