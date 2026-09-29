@@ -4532,3 +4532,16 @@ Append-only. One block per run, written by [check.js](check.js).
     - NEW: 5277776008
     - NEW: 5437933008
 - `jobs-databricks` HTTP 200 (52ms) — 879 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-29T16:35:22.168Z
+- `shopify-allbirds` HTTP 200 (889ms) — 2720 keys; 1 changed, 0 added, 0 gone
+    - mens-wool-strider#41243625128016: went out of stock
+- `shopify-gymshark` HTTP 200 (491ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (695ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1268ms) — 3379 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (118ms) — 711 keys; 1 changed, 0 added, 0 gone
+    - job 8112959: updated 2026-09-25T16:44:53-04:00 -> 2026-09-29T12:28:33-04:00
+- `jobs-figma` HTTP 200 (47ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (50ms) — 631 keys; 1 changed, 0 added, 0 gone
+    - job 4423394008: updated 2026-08-21T12:49:35-04:00 -> 2026-09-29T12:27:05-04:00
+- `jobs-databricks` HTTP 200 (57ms) — 879 keys; 0 changed, 0 added, 0 gone
