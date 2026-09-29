@@ -3300,3 +3300,15 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (46ms) — 165 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (50ms) — 627 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (52ms) — 884 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-29T01:34:02.878Z
+- `shopify-allbirds` HTTP 200 (518ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (454ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (610ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1198ms) — 3380 keys; 1 changed, 0 added, 0 gone
+    - dreamweave-waffle-robe-last-call#44079474671706: went out of stock
+- `jobs-stripe` HTTP 200 (83ms) — 701 keys; 0 changed, 0 added, 1 gone
+    - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `jobs-figma` HTTP 200 (47ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (50ms) — 627 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (61ms) — 884 keys; 0 changed, 0 added, 0 gone
