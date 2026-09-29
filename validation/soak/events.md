@@ -4068,3 +4068,15 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-anthropic` HTTP 200 (41ms) — 629 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (36ms) — 881 keys; 1 changed, 0 added, 0 gone
     - job 8569548002: updated 2026-09-28T12:19:51-04:00 -> 2026-09-29T05:50:45-04:00
+
+### 2026-09-29T10:09:49.860Z
+- `shopify-allbirds` HTTP 200 (678ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (692ms) — 1691 keys; 1 changed, 0 added, 0 gone
+    - gymshark-power-long-sleeve-t-shirt-ls-tops-black-aw25-2#39795952779466: RESTOCKED
+- `shopify-mejuri` HTTP 200 (704ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1306ms) — 3380 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (371ms) — 705 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (28ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (35ms) — 630 keys; 0 changed, 1 added, 0 gone
+    - NEW: 5248983008
+- `jobs-databricks` HTTP 200 (41ms) — 881 keys; 0 changed, 0 added, 0 gone
