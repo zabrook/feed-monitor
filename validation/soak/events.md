@@ -4632,3 +4632,30 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (49ms) — 163 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (47ms) — 632 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (46ms) — 877 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-29T17:56:37.628Z
+- `shopify-allbirds` HTTP 200 (560ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (507ms) — 1691 keys; 15 changed, 0 added, 0 gone
+    - gymshark-whitney-mid-rise-flared-leggings-short-leggings-brown-aw26#39799740530890: RESTOCKED
+    - gymshark-whitney-mid-rise-flared-leggings-short-leggings-pink-aw26#39799737778378: RESTOCKED
+    - gymshark-whitney-flared-leggings-tall-leggings-black-aw26#39799731126474: RESTOCKED
+    - gymshark-whitney-flared-leggings-tall-leggings-black-aw26#39799733518538: RESTOCKED
+    - gymshark-whitney-flared-leggings-tall-leggings-brown-aw26#39799724802250: RESTOCKED
+    - gymshark-whitney-flared-leggings-tall-leggings-brown-aw26#39799726211274: RESTOCKED
+    - gymshark-whitney-flared-leggings-tall-leggings-brown-aw26#39799728046282: RESTOCKED
+    - gymshark-whitney-flared-leggings-tall-leggings-brown-aw26#39799731388618: RESTOCKED
+    - gymshark-whitney-mid-rise-flared-leggings-short-leggings-yellow-aw26#39799721263306: RESTOCKED
+    - gymshark-whitney-mid-rise-flared-leggings-short-leggings-yellow-aw26#39799722148042: RESTOCKED
+    - gymshark-whitney-mid-rise-flared-leggings-short-leggings-yellow-aw26#39799722344650: RESTOCKED
+    - gymshark-whitney-mid-rise-flared-leggings-short-leggings-yellow-aw26#39799723950282: RESTOCKED
+    - gymshark-whitney-mid-rise-flared-leggings-short-leggings-yellow-aw26#39799724179658: RESTOCKED
+    - gymshark-whitney-mid-rise-flared-leggings-short-leggings-yellow-aw26#39799724736714: RESTOCKED
+    - gymshark-whitney-mid-rise-flared-leggings-short-leggings-yellow-aw26#39799725752522: RESTOCKED
+- `shopify-mejuri` HTTP 200 (630ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1235ms) — 3379 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (109ms) — 711 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (58ms) — 162 keys; 0 changed, 0 added, 1 gone
+    - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `jobs-anthropic` HTTP 200 (45ms) — 631 keys; 0 changed, 0 added, 1 gone
+    - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `jobs-databricks` HTTP 200 (54ms) — 877 keys; 0 changed, 0 added, 0 gone
