@@ -3216,3 +3216,26 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-anthropic` HTTP 200 (48ms) — 626 keys; 1 changed, 0 added, 0 gone
     - job 5436293008: updated 2026-09-28T19:25:54-04:00 -> 2026-09-28T20:09:56-04:00
 - `jobs-databricks` HTTP 200 (51ms) — 884 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-29T00:23:23.299Z
+- `shopify-allbirds` HTTP 200 (420ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (551ms) — 1691 keys; 1 changed, 0 added, 0 gone
+    - gymshark-weekend-lifestyle-parachute-pant-pants-brown-ss26#39796994080970: went out of stock
+- `shopify-mejuri` HTTP 200 (695ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1363ms) — 3380 keys; 9 changed, 0 added, 0 gone
+    - luxe-sateen-7-piece-sheet-duvet-bundle#43869751476314: RESTOCKED
+    - luxe-sateen-no-flat-sheet-set#43869748035674: RESTOCKED
+    - luxe-hardcore-bundle-mib#43393088749658: RESTOCKED
+    - luxe-hardcore-bundle-mib#43393088782426: RESTOCKED
+    - luxe-hardcore-bundle-mib#43380360118362: RESTOCKED
+    - luxe-hardcore-bundle-mib#43380359921754: RESTOCKED
+    - luxe-hardcore-bundle-mib#43380360314970: RESTOCKED
+    - luxe-hardcore-bundle-mib#43380360806490: RESTOCKED
+    - luxe-hardcore-bundle-mib#43393089011802: RESTOCKED
+- `jobs-stripe` HTTP 200 (106ms) — 702 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (48ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (53ms) — 627 keys; 2 changed, 1 added, 0 gone
+    - job 5390956008: updated 2026-09-10T15:33:21-04:00 -> 2026-09-28T20:21:18-04:00
+    - job 5436293008: updated 2026-09-28T20:09:56-04:00 -> 2026-09-28T20:13:15-04:00
+    - NEW: 5436615008
+- `jobs-databricks` HTTP 200 (51ms) — 884 keys; 0 changed, 0 added, 0 gone
