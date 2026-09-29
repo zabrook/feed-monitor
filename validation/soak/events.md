@@ -4597,3 +4597,15 @@ Append-only. One block per run, written by [check.js](check.js).
     - NEW: 5436196008
     - 2 key(s) no longer in feed (deleted/unpublished, not a state change)
 - `jobs-databricks` HTTP 200 (62ms) — 877 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-29T17:26:07.703Z
+- `shopify-allbirds` HTTP 200 (690ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (481ms) — 1691 keys; 1 changed, 0 added, 0 gone
+    - gymshark-whitney-flared-leggings-tall-leggings-yellow-aw26#39799733747914: went out of stock
+- `shopify-mejuri` HTTP 200 (644ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1671ms) — 3379 keys; 1 changed, 0 added, 0 gone
+    - dreamweave-waffle-robe-last-call#44079474671706: went out of stock
+- `jobs-stripe` HTTP 200 (7717ms) — 711 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (1306ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (51ms) — 632 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (52ms) — 877 keys; 0 changed, 0 added, 0 gone
