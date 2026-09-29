@@ -4781,3 +4781,15 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-databricks` HTTP 200 (54ms) — 877 keys; 2 changed, 0 added, 0 gone
     - job 8755470002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-29T15:31:03-04:00
     - job 8476403002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-29T15:31:03-04:00
+
+### 2026-09-29T19:48:31.579Z
+- `shopify-allbirds` HTTP 200 (191ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (552ms) — 1691 keys; 1 changed, 0 added, 0 gone
+    - gymshark-conditioning-club-washed-t-shirt-ss-tops-pink-aw26#39797341421770: went out of stock
+- `shopify-mejuri` HTTP 200 (743ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1405ms) — 3379 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (151ms) — 714 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (49ms) — 162 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (44ms) — 634 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (51ms) — 875 keys; 0 changed, 0 added, 2 gone
+    - 2 key(s) no longer in feed (deleted/unpublished, not a state change)
