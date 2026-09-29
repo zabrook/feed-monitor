@@ -4426,3 +4426,19 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-anthropic` HTTP 200 (51ms) — 627 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (118ms) — 878 keys; 0 changed, 0 added, 2 gone
     - 2 key(s) no longer in feed (deleted/unpublished, not a state change)
+
+### 2026-09-29T15:23:54.553Z
+- `shopify-allbirds` HTTP 200 (639ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (434ms) — 1691 keys; 4 changed, 0 added, 0 gone
+    - gymshark-lifting-statue-graphic-hoodie-pullovers-grey-aw26#39797460173002: RESTOCKED
+    - gymshark-lifting-statue-graphic-hoodie-pullovers-grey-aw26#39797462761674: RESTOCKED
+    - gymshark-lifting-statue-graphic-hoodie-pullovers-grey-aw26#39797492908234: RESTOCKED
+    - gymshark-power-washed-cuff-joggers-pants-purple-ss26#39797014921418: went out of stock
+- `shopify-mejuri` HTTP 200 (801ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1223ms) — 3380 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (97ms) — 710 keys; 0 changed, 1 added, 1 gone
+    - NEW: 5895430
+    - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `jobs-figma` HTTP 200 (47ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (46ms) — 627 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (58ms) — 878 keys; 0 changed, 0 added, 0 gone
