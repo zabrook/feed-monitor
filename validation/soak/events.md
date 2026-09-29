@@ -4480,3 +4480,22 @@ Append-only. One block per run, written by [check.js](check.js).
     - job 8855804002: updated 2026-09-29T11:00:37-04:00 -> 2026-09-29T11:47:40-04:00
     - job 8466807002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-29T11:47:30-04:00
     - NEW: 8735549002
+
+### 2026-09-29T16:04:21.477Z
+- `shopify-allbirds` HTTP 200 (646ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (379ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (586ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1287ms) — 3379 keys; 0 changed, 1 added, 2 gone
+    - NEW: super-plush-lounge-around-bundle-checkout#67530705633370
+    - 2 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `jobs-stripe` HTTP 200 (5293ms) — 712 keys; 1 changed, 1 added, 1 gone
+    - job 8214620: updated 2026-09-29T10:51:06-04:00 -> 2026-09-29T11:58:07-04:00
+    - NEW: 8237244
+    - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `jobs-figma` HTTP 200 (2577ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (3500ms) — 628 keys; 0 changed, 2 added, 1 gone
+    - NEW: 5380744008
+    - NEW: 5434559008
+    - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `jobs-databricks` HTTP 200 (31223ms) — 879 keys; 1 changed, 0 added, 0 gone
+    - job 8637768002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-29T11:55:32-04:00
