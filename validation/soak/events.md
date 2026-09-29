@@ -3290,3 +3290,13 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (42ms) — 165 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (53ms) — 627 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (50ms) — 884 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-29T01:23:57.792Z
+- `shopify-allbirds` HTTP 200 (581ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (374ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (654ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1174ms) — 3380 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (113ms) — 702 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (46ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (50ms) — 627 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (52ms) — 884 keys; 0 changed, 0 added, 0 gone
