@@ -5013,3 +5013,14 @@ Append-only. One block per run, written by [check.js](check.js).
     - NEW: 5358088008
     - NEW: 5197562008
 - `jobs-databricks` HTTP 200 (52ms) — 878 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-29T23:01:42.274Z
+- `shopify-allbirds` HTTP 200 (1335ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (570ms) — 1691 keys; 1 changed, 0 added, 0 gone
+    - gymshark-whitney-mid-rise-flared-leggings-short-leggings-yellow-aw26#39799725752522: went out of stock
+- `shopify-mejuri` HTTP 200 (1386ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1893ms) — 3379 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (2668ms) — 710 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (353ms) — 162 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (49ms) — 637 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (57ms) — 878 keys; 0 changed, 0 added, 0 gone
