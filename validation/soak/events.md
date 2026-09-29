@@ -4556,3 +4556,17 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (46ms) — 163 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (54ms) — 631 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (2061ms) — 879 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-29T16:55:36.293Z
+- `shopify-allbirds` HTTP 200 (470ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (536ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (633ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1256ms) — 3379 keys; 2 changed, 0 added, 0 gone
+    - dreamweave-waffle-robe-last-call#44079474671706: RESTOCKED
+    - test-classic-percale-core-sheet-set#40287422087258: went out of stock
+- `jobs-stripe` HTTP 200 (1071ms) — 711 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (46ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (47ms) — 632 keys; 1 changed, 1 added, 0 gone
+    - job 4952051008: updated 2026-08-21T12:49:42-04:00 -> 2026-09-29T12:49:43-04:00
+    - NEW: 5435471008
+- `jobs-databricks` HTTP 200 (52ms) — 879 keys; 0 changed, 0 added, 0 gone
