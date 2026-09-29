@@ -4499,3 +4499,16 @@ Append-only. One block per run, written by [check.js](check.js).
     - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
 - `jobs-databricks` HTTP 200 (31223ms) — 879 keys; 1 changed, 0 added, 0 gone
     - job 8637768002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-29T11:55:32-04:00
+
+### 2026-09-29T16:15:09.182Z
+- `shopify-allbirds` HTTP 200 (653ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (432ms) — 1691 keys; 1 changed, 0 added, 0 gone
+    - gymshark-summer-tie-dye-graphic-shorts-shorts-teal-ss25#39794400624842: went out of stock
+- `shopify-mejuri` HTTP 200 (638ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1207ms) — 3379 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (99ms) — 711 keys; 1 changed, 0 added, 1 gone
+    - job 8237244: updated 2026-09-29T12:02:54-04:00 -> 2026-09-29T12:14:43-04:00
+    - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `jobs-figma` HTTP 200 (60ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (2142ms) — 628 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (54ms) — 879 keys; 0 changed, 0 added, 0 gone
