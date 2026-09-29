@@ -3539,3 +3539,115 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (22ms) — 165 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (25ms) — 629 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (27ms) — 882 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-29T05:06:42.477Z
+- `shopify-allbirds` HTTP 200 (574ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (499ms) — 1691 keys; 263 changed, 0 added, 0 gone
+    - gymshark-cosy-luxe-straight-leg-short-joggers-pants-pink-aw26#39799628726474: price 50.40 -> 56.00
+    - gymshark-cosy-luxe-straight-leg-short-joggers-pants-pink-aw26#39799632953546: price 50.40 -> 56.00
+    - gymshark-cosy-luxe-straight-leg-short-joggers-pants-pink-aw26#39799632986314: price 50.40 -> 56.00
+    - gymshark-cosy-luxe-straight-leg-short-joggers-pants-pink-aw26#39799635116234: price 50.40 -> 56.00
+    - gymshark-cosy-luxe-straight-leg-short-joggers-pants-pink-aw26#39799670735050: price 50.40 -> 56.00
+    - gymshark-cosy-luxe-straight-leg-short-joggers-pants-pink-aw26#39799670898890: price 50.40 -> 56.00
+    - gymshark-cosy-luxe-straight-leg-short-joggers-pants-pink-aw26#39799689871562: price 50.40 -> 56.00
+    - gymshark-cosy-luxe-hoodie-pullovers-pink-aw26#39799673880778: price 54.00 -> 60.00
+    - gymshark-cosy-luxe-hoodie-pullovers-pink-aw26#39799674044618: price 54.00 -> 60.00
+    - gymshark-cosy-luxe-hoodie-pullovers-pink-aw26#39799698751690: price 54.00 -> 60.00
+    - gymshark-cosy-luxe-hoodie-pullovers-pink-aw26#39799715758282: price 54.00 -> 60.00
+    - gymshark-cosy-luxe-hoodie-pullovers-pink-aw26#39799715889354: price 54.00 -> 60.00
+    - gymshark-cosy-luxe-hoodie-pullovers-pink-aw26#39799715954890: price 54.00 -> 60.00
+    - gymshark-cosy-luxe-hoodie-pullovers-pink-aw26#39799716085962: price 54.00 -> 60.00
+    - gymshark-training-t-shirt-ss-tops-pink-aw26#39799674142922: price 20.80 -> 26.00
+    - gymshark-training-t-shirt-ss-tops-pink-aw26#39799674241226: price 20.80 -> 26.00
+    - gymshark-training-t-shirt-ss-tops-pink-aw26#39799687872714: price 20.80 -> 26.00
+    - gymshark-training-t-shirt-ss-tops-pink-aw26#39799697572042: price 20.80 -> 26.00
+    - gymshark-training-t-shirt-ss-tops-pink-aw26#39799697604810: price 20.80 -> 26.00
+    - gymshark-training-t-shirt-ss-tops-pink-aw26#39799697735882: price 20.80 -> 26.00
+    - gymshark-training-t-shirt-ss-tops-pink-aw26#39799698784458: price 20.80 -> 26.00
+    - gymshark-woven-shorts-shorts-purple-ss26#39799679156426: price 10.20 -> 34.00
+    - gymshark-woven-shorts-shorts-purple-ss26#39799694983370: price 10.20 -> 34.00
+    - gymshark-woven-shorts-shorts-purple-ss26#39799700914378: price 10.20 -> 34.00
+    - gymshark-woven-shorts-shorts-purple-ss26#39799711465674: price 10.20 -> 34.00
+    - gymshark-woven-shorts-shorts-purple-ss26#39799719002314: price 10.20 -> 34.00
+    - gymshark-woven-shorts-shorts-purple-ss26#39799719166154: price 10.20 -> 34.00
+    - gymshark-woven-shorts-shorts-purple-ss26#39799719264458: price 10.20 -> 34.00
+    - gymshark-vital-sports-bra-sports-bras-yellow-ss26#39799573545162: price 30.40 -> 38.00
+    - gymshark-vital-sports-bra-sports-bras-yellow-ss26#39799578853578: price 30.40 -> 38.00
+    - gymshark-vital-sports-bra-sports-bras-yellow-ss26#39799578951882: price 30.40 -> 38.00
+    - gymshark-vital-sports-bra-sports-bras-yellow-ss26#39799579803850: price 30.40 -> 38.00
+    - gymshark-vital-sports-bra-sports-bras-yellow-ss26#39799585243338: price 30.40 -> 38.00
+    - gymshark-vital-sports-bra-sports-bras-yellow-ss26#39799585407178: price 30.40 -> 38.00
+    - gymshark-vital-sports-bra-sports-bras-yellow-ss26#39799589929162: price 30.40 -> 38.00
+    - gymshark-lightweight-high-support-sports-bra-sports-bras-pink-aw26#39799644946634: price 35.20 -> 44.00
+    - gymshark-lightweight-high-support-sports-bra-sports-bras-pink-aw26#39799692361930: price 35.20 -> 44.00
+    - gymshark-lightweight-high-support-sports-bra-sports-bras-pink-aw26#39799696523466: price 35.20 -> 44.00
+    - gymshark-lightweight-high-support-sports-bra-sports-bras-pink-aw26#39799707173066: price 35.20 -> 44.00
+    - gymshark-lightweight-high-support-sports-bra-sports-bras-pink-aw26#39799713562826: price 35.20 -> 44.00
+    - gymshark-lightweight-high-support-sports-bra-sports-bras-pink-aw26#39799713628362: price 35.20 -> 44.00
+    - gymshark-minimal-halterneck-sports-bra-sports-bras-pink-aw26#39799663427786: price 27.00 -> 30.00
+    - gymshark-minimal-halterneck-sports-bra-sports-bras-pink-aw26#39799666442442: price 27.00 -> 30.00
+    - gymshark-minimal-halterneck-sports-bra-sports-bras-pink-aw26#39799666507978: price 27.00 -> 30.00
+    - gymshark-minimal-halterneck-sports-bra-sports-bras-pink-aw26#39799666606282: price 27.00 -> 30.00
+    - gymshark-minimal-halterneck-sports-bra-sports-bras-pink-aw26#39799685841098: price 27.00 -> 30.00
+    - gymshark-training-cami-tank-with-shelf-sleeveless-tops-pink-aw26#39799602020554: price 25.20 -> 28.00
+    - gymshark-training-cami-tank-with-shelf-sleeveless-tops-pink-aw26#39799603462346: price 25.20 -> 28.00
+    - gymshark-training-cami-tank-with-shelf-sleeveless-tops-pink-aw26#39799603560650: price 25.20 -> 28.00
+    - gymshark-training-cami-tank-with-shelf-sleeveless-tops-pink-aw26#39799607001290: price 25.20 -> 28.00
+    - gymshark-training-cami-tank-with-shelf-sleeveless-tops-pink-aw26#39799613063370: price 25.20 -> 28.00
+    - gymshark-training-cami-tank-with-shelf-sleeveless-tops-pink-aw26#39799613194442: price 25.20 -> 28.00
+    - gymshark-training-cami-tank-with-shelf-sleeveless-tops-pink-aw26#39799613259978: price 25.20 -> 28.00
+    - gymshark-training-jacket-jackets-outerwear-pink-aw26#39799679811786: price 43.20 -> 48.00
+    - gymshark-training-jacket-jackets-outerwear-pink-aw26#39799701373130: price 43.20 -> 48.00
+    - gymshark-training-jacket-jackets-outerwear-pink-aw26#39799701471434: price 43.20 -> 48.00
+    - gymshark-training-jacket-jackets-outerwear-pink-aw26#39799710482634: price 43.20 -> 48.00
+    - gymshark-training-jacket-jackets-outerwear-pink-aw26#39799712088266: price 43.20 -> 48.00
+    - gymshark-training-jacket-jackets-outerwear-pink-aw26#39799712153802: price 43.20 -> 48.00
+    - gymshark-training-jacket-jackets-outerwear-pink-aw26#39799712284874: price 43.20 -> 48.00
+    - gymshark-blush-seamless-short-sleeve-top-ss-tops-pink-ss26#39799157653706: price 16.00 -> 32.00
+    - gymshark-blush-seamless-short-sleeve-top-ss-tops-pink-ss26#39799826383050: price 16.00 -> 32.00
+    - gymshark-blush-seamless-short-sleeve-top-ss-tops-pink-ss26#39799835164874: price 16.00 -> 32.00
+    - gymshark-blush-seamless-short-sleeve-top-ss-tops-pink-ss26#39799858856138: price 16.00 -> 32.00
+    - gymshark-blush-seamless-short-sleeve-top-ss-tops-pink-ss26#39799869997258: price 16.00 -> 32.00
+    - gymshark-blush-seamless-short-sleeve-top-ss-tops-pink-ss26#39799876714698: price 16.00 -> 32.00
+    - gymshark-blush-seamless-short-sleeve-top-ss-tops-pink-ss26#39799905321162: price 16.00 -> 32.00
+    - gymshark-woven-shorts-shorts-pink-ss26-b6b3r-kdfx#39799781294282: price 10.20 -> 34.00
+    - gymshark-woven-shorts-shorts-pink-ss26-b6b3r-kdfx#39799781392586: price 10.20 -> 34.00
+    - gymshark-woven-shorts-shorts-pink-ss26-b6b3r-kdfx#39799781621962: price 10.20 -> 34.00
+    - gymshark-woven-shorts-shorts-pink-ss26-b6b3r-kdfx#39799781785802: price 10.20 -> 34.00
+    - gymshark-woven-shorts-shorts-pink-ss26-b6b3r-kdfx#39799782342858: price 10.20 -> 34.00
+    - gymshark-woven-shorts-shorts-pink-ss26-b6b3r-kdfx#39799782473930: price 10.20 -> 34.00
+    - gymshark-woven-shorts-shorts-pink-ss26-b6b3r-kdfx#39799783096522: price 10.20 -> 34.00
+    - gymshark-soccer-short-shorts-black-ss26#39799777099978: price 23.00 -> 46.00
+    - gymshark-soccer-short-shorts-black-ss26#39799777263818: price 23.00 -> 46.00
+    - gymshark-soccer-short-shorts-black-ss26#39799777362122: price 23.00 -> 46.00
+    - gymshark-soccer-short-shorts-black-ss26#39799777427658: price 23.00 -> 46.00
+    - gymshark-soccer-short-shorts-black-ss26#39799777525962: price 23.00 -> 46.00
+    - gymshark-soccer-short-shorts-black-ss26#39799777591498: price 23.00 -> 46.00
+    - gymshark-soccer-short-shorts-black-ss26#39799777755338: price 23.00 -> 46.00
+    - gymshark-training-baby-tee-ss-tops-pink-aw26#39798823616714: price 25.20 -> 28.00
+    - gymshark-training-baby-tee-ss-tops-pink-aw26#39798844162250: price 25.20 -> 28.00
+    - gymshark-training-baby-tee-ss-tops-pink-aw26#39798846881994: price 25.20 -> 28.00
+    - gymshark-training-baby-tee-ss-tops-pink-aw26#39798871228618: price 25.20 -> 28.00
+    - gymshark-training-baby-tee-ss-tops-pink-aw26#39798891118794: price 25.20 -> 28.00
+    - gymshark-training-baby-tee-ss-tops-pink-aw26#39798936666314: price 25.20 -> 28.00
+    - gymshark-training-baby-tee-ss-tops-pink-aw26#39799039164618: price 25.20 -> 28.00
+    - gymshark-soft-sculpt-flared-leggings-leggings-brown-ss26#39798578282698: price 36.00 -> 60.00
+    - gymshark-soft-sculpt-flared-leggings-leggings-brown-ss26#39798585163978: price 36.00 -> 60.00
+    - gymshark-soft-sculpt-flared-leggings-leggings-brown-ss26#39798586605770: price 36.00 -> 60.00
+    - gymshark-soft-sculpt-flared-leggings-leggings-brown-ss26#39798589358282: price 36.00 -> 60.00
+    - gymshark-soft-sculpt-flared-leggings-leggings-brown-ss26#39798606233802: price 36.00 -> 60.00
+    - gymshark-soft-sculpt-flared-leggings-leggings-brown-ss26#39798608527562: price 36.00 -> 60.00
+    - gymshark-soft-sculpt-flared-leggings-leggings-brown-ss26#39798620127434: price 36.00 -> 60.00
+    - gymshark-training-cami-tank-with-shelf-sleeveless-tops-green-aw26#39798180839626: price 22.40 -> 28.00
+    - gymshark-training-cami-tank-with-shelf-sleeveless-tops-green-aw26#39798181494986: price 22.40 -> 28.00
+    - gymshark-training-cami-tank-with-shelf-sleeveless-tops-green-aw26#39798181789898: price 22.40 -> 28.00
+    - gymshark-training-cami-tank-with-shelf-sleeveless-tops-green-aw26#39798182183114: price 22.40 -> 28.00
+    - gymshark-training-cami-tank-with-shelf-sleeveless-tops-green-aw26#39798182772938: price 22.40 -> 28.00
+    - (detail truncated at 100 per category)
+- `shopify-mejuri` HTTP 200 (969ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1603ms) — 3380 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (94ms) — 702 keys; 0 changed, 0 added, 1 gone
+    - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `jobs-figma` HTTP 200 (28ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (77ms) — 629 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (29ms) — 882 keys; 0 changed, 0 added, 0 gone
