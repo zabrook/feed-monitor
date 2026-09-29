@@ -4934,3 +4934,16 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (46ms) — 162 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (49ms) — 636 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (69ms) — 878 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-29T21:50:44.432Z
+- `shopify-allbirds` HTTP 200 (613ms) — 2720 keys; 2 changed, 0 added, 0 gone
+    - womens-lounger-lift-stony-cream#40837909512272: went out of stock
+    - mens-tree-dasher-relay-deep-navy#40444542156880: went out of stock
+- `shopify-gymshark` HTTP 200 (707ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (1164ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (2006ms) — 3379 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (145ms) — 710 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (54ms) — 162 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (47ms) — 636 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (49ms) — 878 keys; 1 changed, 0 added, 0 gone
+    - job 8441894002: updated 2026-09-25T06:23:29-04:00 -> 2026-09-29T17:46:20-04:00
