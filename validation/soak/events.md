@@ -3911,3 +3911,24 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-anthropic` HTTP 200 (28ms) — 628 keys; 0 changed, 0 added, 1 gone
     - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
 - `jobs-databricks` HTTP 200 (29ms) — 881 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-29T08:08:27.377Z
+- `shopify-allbirds` HTTP 200 (807ms) — 2720 keys; 1 changed, 0 added, 0 gone
+    - womens-canvas-pipers-natural-black-1#40473978175568: went out of stock
+- `shopify-gymshark` HTTP 200 (670ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (777ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1351ms) — 3380 keys; 9 changed, 0 added, 0 gone
+    - luxe-sateen-7-piece-sheet-duvet-bundle#43869751476314: went out of stock
+    - luxe-sateen-no-flat-sheet-set#43869748035674: went out of stock
+    - luxe-hardcore-bundle-mib#43393088749658: went out of stock
+    - luxe-hardcore-bundle-mib#43393088782426: went out of stock
+    - luxe-hardcore-bundle-mib#43380360118362: went out of stock
+    - luxe-hardcore-bundle-mib#43380359921754: went out of stock
+    - luxe-hardcore-bundle-mib#43380360314970: went out of stock
+    - luxe-hardcore-bundle-mib#43380360806490: went out of stock
+    - luxe-hardcore-bundle-mib#43393089011802: went out of stock
+- `jobs-stripe` HTTP 200 (384ms) — 705 keys; 0 changed, 1 added, 0 gone
+    - NEW: 8177634
+- `jobs-figma` HTTP 200 (61ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (60ms) — 628 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (68ms) — 881 keys; 0 changed, 0 added, 0 gone
