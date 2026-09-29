@@ -3725,3 +3725,28 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (29ms) — 165 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (35ms) — 629 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (36ms) — 882 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-29T05:26:53.703Z
+- `shopify-allbirds` HTTP 200 (179ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (646ms) — 1691 keys; 14 changed, 0 added, 0 gone
+    - gymshark-weekend-seamless-tank-top-sleeveless-tops#39796881162442: price 19.00 -> 30.40
+    - gymshark-weekend-seamless-tank-top-sleeveless-tops#39796884406474: price 19.00 -> 30.40
+    - gymshark-weekend-seamless-tank-top-sleeveless-tops#39796884734154: price 19.00 -> 30.40
+    - gymshark-weekend-seamless-tank-top-sleeveless-tops#39796887945418: price 19.00 -> 30.40
+    - gymshark-weekend-seamless-tank-top-sleeveless-tops#39796889387210: price 19.00 -> 30.40
+    - gymshark-weekend-seamless-tank-top-sleeveless-tops#39796889518282: price 19.00 -> 30.40
+    - gymshark-weekend-seamless-tank-top-sleeveless-tops#39796889583818: price 19.00 -> 30.40
+    - gymshark-varsity-graphic-oversized-t-shirt-ss-tops-blue-ss25#39794436047050: price 16.00 -> 24.00
+    - gymshark-varsity-graphic-oversized-t-shirt-ss-tops-blue-ss25#39794439979210: price 16.00 -> 24.00
+    - gymshark-varsity-graphic-oversized-t-shirt-ss-tops-blue-ss25#39794436145354: price 16.00 -> 24.00
+    - gymshark-varsity-graphic-oversized-t-shirt-ss-tops-blue-ss25#39794436473034: price 16.00 -> 24.00
+    - gymshark-varsity-graphic-oversized-t-shirt-ss-tops-blue-ss25#39794435260618: price 16.00 -> 24.00
+    - gymshark-varsity-graphic-oversized-t-shirt-ss-tops-blue-ss25#39794440077514: price 16.00 -> 24.00
+    - gymshark-varsity-graphic-oversized-t-shirt-ss-tops-blue-ss25#39794435326154: price 16.00 -> 24.00
+- `shopify-mejuri` HTTP 200 (661ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1197ms) — 3380 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (336ms) — 704 keys; 0 changed, 1 added, 0 gone
+    - NEW: 8239006
+- `jobs-figma` HTTP 200 (24ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (25ms) — 629 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (37ms) — 882 keys; 0 changed, 0 added, 0 gone
