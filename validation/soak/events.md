@@ -4887,3 +4887,16 @@ Append-only. One block per run, written by [check.js](check.js).
     - job 5146298008: updated 2026-08-21T12:50:01-04:00 -> 2026-09-29T16:57:25-04:00
     - NEW: 5358098008
 - `jobs-databricks` HTTP 200 (6119ms) — 877 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-29T21:10:11.124Z
+- `shopify-allbirds` HTTP 200 (418ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (591ms) — 1691 keys; 2 changed, 0 added, 0 gone
+    - gymshark-conditioning-club-4-shorts-shorts-grey-aw26#39797118697674: RESTOCKED
+    - gymshark-conditioning-club-4-shorts-shorts-grey-aw26#39797119189194: RESTOCKED
+- `shopify-mejuri` HTTP 200 (1114ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1309ms) — 3379 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (142ms) — 710 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (1834ms) — 162 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (56ms) — 636 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (50ms) — 878 keys; 0 changed, 1 added, 0 gone
+    - NEW: 8854693002
