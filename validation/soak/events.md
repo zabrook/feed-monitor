@@ -3651,3 +3651,77 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (28ms) — 165 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (77ms) — 629 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (29ms) — 882 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-29T05:16:47.934Z
+- `shopify-allbirds` HTTP 200 (644ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (633ms) — 1691 keys; 63 changed, 0 added, 0 gone
+    - gymshark-soccer-shorts-shorts-blue-ss26#39799647961290: price 27.60 -> 32.20
+    - gymshark-soccer-shorts-shorts-blue-ss26#39799648092362: price 27.60 -> 32.20
+    - gymshark-soccer-shorts-shorts-blue-ss26#39799680630986: price 27.60 -> 32.20
+    - gymshark-soccer-shorts-shorts-blue-ss26#39799684006090: price 27.60 -> 32.20
+    - gymshark-soccer-shorts-shorts-blue-ss26#39799699439818: price 27.60 -> 32.20
+    - gymshark-soccer-shorts-shorts-blue-ss26#39799716806858: price 27.60 -> 32.20
+    - gymshark-soccer-shorts-shorts-blue-ss26#39799716905162: price 27.60 -> 32.20
+    - gymshark-soccer-shorts-shorts-pink-ss26#39799680794826: price 27.60 -> 36.80
+    - gymshark-soccer-shorts-shorts-pink-ss26#39799684432074: price 27.60 -> 36.80
+    - gymshark-soccer-shorts-shorts-pink-ss26#39799684530378: price 27.60 -> 36.80
+    - gymshark-soccer-shorts-shorts-pink-ss26#39799702061258: price 27.60 -> 36.80
+    - gymshark-soccer-shorts-shorts-pink-ss26#39799717658826: price 27.60 -> 36.80
+    - gymshark-soccer-shorts-shorts-pink-ss26#39799719690442: price 27.60 -> 36.80
+    - gymshark-soccer-shorts-shorts-pink-ss26#39799719854282: price 27.60 -> 36.80
+    - gymshark-flutter-woven-short-shorts-blue-ss26-b6b3t-ucvg#39799780835530: price 13.20 -> 35.20
+    - gymshark-flutter-woven-short-shorts-blue-ss26-b6b3t-ucvg#39799780933834: price 13.20 -> 35.20
+    - gymshark-flutter-woven-short-shorts-blue-ss26-b6b3t-ucvg#39799781851338: price 13.20 -> 35.20
+    - gymshark-flutter-woven-short-shorts-blue-ss26-b6b3t-ucvg#39799781982410: price 13.20 -> 35.20
+    - gymshark-flutter-woven-short-shorts-blue-ss26-b6b3t-ucvg#39799782539466: price 13.20 -> 35.20
+    - gymshark-flutter-woven-short-shorts-blue-ss26-b6b3t-ucvg#39799782637770: price 13.20 -> 35.20
+    - gymshark-flutter-woven-short-shorts-blue-ss26-b6b3t-ucvg#39799782768842: price 13.20 -> 35.20
+    - gymshark-boxer-brief-3pk-underwear-black-ss26#39797882454218: price 28.80 -> 25.20
+    - gymshark-boxer-brief-3pk-underwear-black-ss26#39797942976714: price 28.80 -> 25.20
+    - gymshark-boxer-brief-3pk-underwear-black-ss26#39797947531466: price 28.80 -> 25.20
+    - gymshark-boxer-brief-3pk-underwear-black-ss26#39797958443210: price 28.80 -> 25.20
+    - gymshark-boxer-brief-3pk-underwear-black-ss26#39797971452106: price 28.80 -> 25.20
+    - gymshark-boxer-brief-3pk-underwear-black-ss26#39797988065482: price 28.80 -> 25.20
+    - gymshark-boxer-brief-3pk-underwear-black-ss26#39798013591754: price 28.80 -> 25.20
+    - gymshark-high-support-v-neck-sports-bra-sports-bras-blue-ss26#39796956561610: price 30.00 -> 40.00
+    - gymshark-high-support-v-neck-sports-bra-sports-bras-blue-ss26#39796967211210: price 30.00 -> 40.00
+    - gymshark-high-support-v-neck-sports-bra-sports-bras-blue-ss26#39796975894730: price 30.00 -> 40.00
+    - gymshark-high-support-v-neck-sports-bra-sports-bras-blue-ss26#39796976386250: price 30.00 -> 40.00
+    - gymshark-high-support-v-neck-sports-bra-sports-bras-blue-ss26#39796977729738: price 30.00 -> 40.00
+    - gymshark-high-support-v-neck-sports-bra-sports-bras-blue-ss26#39796982710474: price 30.00 -> 40.00
+    - gymshark-high-support-v-neck-sports-bra-sports-bras-blue-ss26#39797009744074: price 30.00 -> 40.00
+    - gymshark-locked-in-graphic-short-sleeve-t-shirt-ss-tops#39796612595914: price 12.00 -> 16.80
+    - gymshark-locked-in-graphic-short-sleeve-t-shirt-ss-tops#39796613775562: price 12.00 -> 16.80
+    - gymshark-locked-in-graphic-short-sleeve-t-shirt-ss-tops#39796622360778: price 12.00 -> 16.80
+    - gymshark-locked-in-graphic-short-sleeve-t-shirt-ss-tops#39796622753994: price 12.00 -> 16.80
+    - gymshark-locked-in-graphic-short-sleeve-t-shirt-ss-tops#39796622885066: price 12.00 -> 16.80
+    - gymshark-locked-in-graphic-short-sleeve-t-shirt-ss-tops#39796625342666: price 12.00 -> 16.80
+    - gymshark-locked-in-graphic-short-sleeve-t-shirt-ss-tops#39796626587850: price 12.00 -> 16.80
+    - gymshark-sport-7-shorts-shorts-blue-aw25#39794544443594: price 26.60 -> 19.00
+    - gymshark-sport-7-shorts-shorts-blue-aw25#39794540937418: price 26.60 -> 19.00
+    - gymshark-sport-7-shorts-shorts-blue-aw25#39794542936266: price 26.60 -> 19.00
+    - gymshark-sport-7-shorts-shorts-blue-aw25#39794543296714: price 26.60 -> 19.00
+    - gymshark-sport-7-shorts-shorts-blue-aw25#39794540609738: price 26.60 -> 19.00
+    - gymshark-sport-7-shorts-shorts-blue-aw25#39794544804042: price 26.60 -> 19.00
+    - gymshark-sport-7-shorts-shorts-blue-aw25#39794544050378: price 26.60 -> 19.00
+    - gymshark-energised-seamless-crop-top-crop-tops-pink-ss25#39794534842570: price 16.80 -> 33.60
+    - gymshark-energised-seamless-crop-top-crop-tops-pink-ss25#39794535137482: price 16.80 -> 33.60
+    - gymshark-energised-seamless-crop-top-crop-tops-pink-ss25#39794535039178: price 16.80 -> 33.60
+    - gymshark-energised-seamless-crop-top-crop-tops-pink-ss25#39794529075402: price 16.80 -> 33.60
+    - gymshark-energised-seamless-crop-top-crop-tops-pink-ss25#39794530156746: price 16.80 -> 33.60
+    - gymshark-energised-seamless-crop-top-crop-tops-pink-ss25#39794534088906: price 16.80 -> 33.60
+    - gymshark-energised-seamless-crop-top-crop-tops-pink-ss25#39794530123978: price 16.80 -> 33.60
+    - gymshark-energised-seamless-crop-top-crop-tops-purple-ss25#39794535530698: price 16.80 -> 28.00
+    - gymshark-energised-seamless-crop-top-crop-tops-purple-ss25#39794528223434: price 16.80 -> 28.00
+    - gymshark-energised-seamless-crop-top-crop-tops-purple-ss25#39794528288970: price 16.80 -> 28.00
+    - gymshark-energised-seamless-crop-top-crop-tops-purple-ss25#39794530648266: price 16.80 -> 28.00
+    - gymshark-energised-seamless-crop-top-crop-tops-purple-ss25#39794533662922: price 16.80 -> 28.00
+    - gymshark-energised-seamless-crop-top-crop-tops-purple-ss25#39794529861834: price 16.80 -> 28.00
+    - gymshark-energised-seamless-crop-top-crop-tops-purple-ss25#39794529501386: price 16.80 -> 28.00
+- `shopify-mejuri` HTTP 200 (862ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1755ms) — 3380 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (115ms) — 703 keys; 0 changed, 1 added, 0 gone
+    - NEW: 8203653
+- `jobs-figma` HTTP 200 (29ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (35ms) — 629 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (36ms) — 882 keys; 0 changed, 0 added, 0 gone
