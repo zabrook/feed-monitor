@@ -4741,3 +4741,15 @@ Append-only. One block per run, written by [check.js](check.js).
     - NEW: 5438030008
     - NEW: 5438044008
 - `jobs-databricks` HTTP 200 (4504ms) — 877 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-29T19:18:04.420Z
+- `shopify-allbirds` HTTP 200 (708ms) — 2720 keys; 1 changed, 0 added, 0 gone
+    - womens-tree-breezer-sienna-blush-knit#41220636180560: went out of stock
+- `shopify-gymshark` HTTP 200 (438ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (645ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1308ms) — 3379 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (92ms) — 714 keys; 0 changed, 1 added, 0 gone
+    - NEW: 7473983
+- `jobs-figma` HTTP 200 (45ms) — 162 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (913ms) — 634 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (8721ms) — 877 keys; 0 changed, 0 added, 0 gone
