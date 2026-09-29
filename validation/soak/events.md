@@ -4765,3 +4765,19 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-anthropic` HTTP 200 (53ms) — 633 keys; 0 changed, 0 added, 1 gone
     - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
 - `jobs-databricks` HTTP 200 (68ms) — 877 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-29T19:38:25.656Z
+- `shopify-allbirds` HTTP 200 (742ms) — 2720 keys; 2 changed, 0 added, 0 gone
+    - womens-soft-merino-tee-medium-grey#40207967649872: went out of stock
+    - mens-cruiser-mid-explore-rustic-green#41271090184272: went out of stock
+- `shopify-gymshark` HTTP 200 (483ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (738ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1489ms) — 3379 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (166ms) — 714 keys; 1 changed, 0 added, 0 gone
+    - job 8209633: updated 2026-09-25T16:46:54-04:00 -> 2026-09-29T15:34:23-04:00
+- `jobs-figma` HTTP 200 (43ms) — 162 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (49ms) — 634 keys; 0 changed, 1 added, 0 gone
+    - NEW: 5393039008
+- `jobs-databricks` HTTP 200 (54ms) — 877 keys; 2 changed, 0 added, 0 gone
+    - job 8755470002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-29T15:31:03-04:00
+    - job 8476403002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-29T15:31:03-04:00
