@@ -4512,3 +4512,23 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (60ms) — 163 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (2142ms) — 628 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (54ms) — 879 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-29T16:25:16.719Z
+- `shopify-allbirds` HTTP 200 (641ms) — 2720 keys; 1 changed, 0 added, 0 gone
+    - mens-tree-dashers-natural-black-natural-black#39789590184016: went out of stock
+- `shopify-gymshark` HTTP 200 (450ms) — 1691 keys; 4 changed, 0 added, 0 gone
+    - gymshark-lifting-statue-graphic-hoodie-pullovers-grey-aw26#39797470953674: RESTOCKED
+    - gymshark-lifting-statue-graphic-hoodie-pullovers-grey-aw26#39797471445194: RESTOCKED
+    - gymshark-lifting-statue-graphic-hoodie-pullovers-grey-aw26#39797489434826: RESTOCKED
+    - gymshark-lifting-statue-graphic-hoodie-pullovers-grey-aw26#39797491531978: RESTOCKED
+- `shopify-mejuri` HTTP 200 (591ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1430ms) — 3379 keys; 1 changed, 0 added, 0 gone
+    - dreamweave-waffle-robe-last-call#44079474671706: went out of stock
+- `jobs-stripe` HTTP 200 (119ms) — 711 keys; 1 changed, 0 added, 0 gone
+    - job 8237244: updated 2026-09-29T12:14:43-04:00 -> 2026-09-29T12:22:10-04:00
+- `jobs-figma` HTTP 200 (46ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (49ms) — 631 keys; 0 changed, 3 added, 0 gone
+    - NEW: 5437262008
+    - NEW: 5277776008
+    - NEW: 5437933008
+- `jobs-databricks` HTTP 200 (52ms) — 879 keys; 0 changed, 0 added, 0 gone
