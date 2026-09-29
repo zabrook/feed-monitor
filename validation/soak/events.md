@@ -4043,3 +4043,16 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (28ms) — 165 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (30ms) — 629 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (31ms) — 881 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-29T09:49:39.132Z
+- `shopify-allbirds` HTTP 200 (188ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (536ms) — 1691 keys; 1 changed, 0 added, 0 gone
+    - gymshark-whitney-flared-leggings-short-leggings-black-aw26#39799734567114: RESTOCKED
+- `shopify-mejuri` HTTP 200 (836ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1742ms) — 3380 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (287ms) — 706 keys; 1 changed, 1 added, 0 gone
+    - job 8213481: updated 2026-09-25T16:45:07-04:00 -> 2026-09-29T05:42:22-04:00
+    - NEW: 8076108
+- `jobs-figma` HTTP 200 (28ms) — 165 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (38ms) — 629 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (33ms) — 881 keys; 0 changed, 0 added, 0 gone
