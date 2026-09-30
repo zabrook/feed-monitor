@@ -5494,3 +5494,14 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (38526ms) — 162 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (50ms) — 637 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (50ms) — 883 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-30T06:17:06.232Z
+- `shopify-allbirds` HTTP 200 (498ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (393ms) — 1691 keys; 1 changed, 0 added, 0 gone
+    - gymshark-whitney-twist-front-shelf-tank-sleeveless-tops-blue-aw26#39797383200970: went out of stock
+- `shopify-mejuri` HTTP 200 (922ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (979ms) — 3379 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (90ms) — 710 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (48ms) — 162 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (46ms) — 637 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (51ms) — 883 keys; 0 changed, 0 added, 0 gone
