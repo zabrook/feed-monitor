@@ -6205,3 +6205,15 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (59ms) — 163 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (54ms) — 637 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (13374ms) — 878 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-30T16:45:09.650Z
+- `shopify-allbirds` HTTP 200 (764ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (582ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (930ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1517ms) — 3380 keys; 1 changed, 0 added, 0 gone
+    - washed-european-linen-lumbar-pillow-cover-last-call#43873243299930: RESTOCKED
+- `jobs-stripe` HTTP 200 (196ms) — 715 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (59ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (53ms) — 637 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (58ms) — 878 keys; 1 changed, 0 added, 0 gone
+    - job 8633071002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-30T12:35:13-04:00
