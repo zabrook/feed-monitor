@@ -6190,3 +6190,18 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-anthropic` HTTP 200 (759ms) — 637 keys; 1 changed, 0 added, 0 gone
     - job 5382792008: updated 2026-08-28T16:45:54-04:00 -> 2026-09-30T12:22:21-04:00
 - `jobs-databricks` HTTP 200 (18131ms) — 878 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-30T16:34:50.600Z
+- `shopify-allbirds` HTTP 200 (684ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (546ms) — 1691 keys; 1 changed, 0 added, 0 gone
+    - gymshark-power-oversized-t-shirt-ss-tops-blue-aw26#39797781299402: RESTOCKED
+- `shopify-mejuri` HTTP 200 (782ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1315ms) — 3380 keys; 2 changed, 0 added, 0 gone
+    - marlow-mini-pillow-last-call#43453530144858: RESTOCKED
+    - super-plush-robe-last-call#44079476277338: RESTOCKED
+- `jobs-stripe` HTTP 200 (149ms) — 715 keys; 0 changed, 1 added, 1 gone
+    - NEW: 5601879
+    - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `jobs-figma` HTTP 200 (59ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (54ms) — 637 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (13374ms) — 878 keys; 0 changed, 0 added, 0 gone
