@@ -5113,3 +5113,14 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-databricks` HTTP 200 (71ms) — 880 keys; 0 changed, 2 added, 0 gone
     - NEW: 8490644002
     - NEW: 8854739002
+
+### 2026-09-30T00:32:44.996Z
+- `shopify-allbirds` HTTP 200 (608ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (554ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (1392ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1340ms) — 3379 keys; 1 changed, 0 added, 0 gone
+    - classic-pillowcases-last-call#44079475621978: went out of stock
+- `jobs-stripe` HTTP 200 (103ms) — 710 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (64ms) — 162 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (186ms) — 636 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (54ms) — 880 keys; 0 changed, 0 added, 0 gone
