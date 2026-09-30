@@ -5607,3 +5607,14 @@ Append-only. One block per run, written by [check.js](check.js).
     - NEW: 5822886004
 - `jobs-anthropic` HTTP 200 (59ms) — 637 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (53ms) — 883 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-30T07:58:36.052Z
+- `shopify-allbirds` HTTP 200 (522ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (537ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (161ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1329ms) — 3379 keys; 1 changed, 0 added, 0 gone
+    - classic-core-sheet-set-last-call#43199951962202: went out of stock
+- `jobs-stripe` HTTP 200 (88ms) — 710 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (48ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (46ms) — 637 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (55ms) — 883 keys; 0 changed, 0 added, 0 gone
