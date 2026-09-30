@@ -5838,3 +5838,14 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-anthropic` HTTP 200 (45ms) — 637 keys; 0 changed, 0 added, 1 gone
     - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
 - `jobs-databricks` HTTP 200 (49ms) — 882 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-30T11:30:25.986Z
+- `shopify-allbirds` HTTP 200 (544ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (630ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (173ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1123ms) — 3380 keys; 1 changed, 0 added, 0 gone
+    - heathered-cashmere-core-sheet-set-last-call#42951700021338: went out of stock
+- `jobs-stripe` HTTP 200 (78ms) — 711 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (52ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (58ms) — 637 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (192ms) — 882 keys; 0 changed, 0 added, 0 gone
