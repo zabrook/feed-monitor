@@ -6241,3 +6241,17 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-databricks` HTTP 200 (4053ms) — 879 keys; 1 changed, 1 added, 0 gone
     - job 8739519002: updated 2026-09-30T12:12:22-04:00 -> 2026-09-30T13:04:58-04:00
     - NEW: 8856932002
+
+### 2026-09-30T17:15:32.298Z
+- `shopify-allbirds` HTTP 200 (769ms) — 2720 keys; 1 changed, 0 added, 0 gone
+    - womens-tree-runner-nz-dark-navy#41206423453776: went out of stock
+- `shopify-gymshark` HTTP 200 (566ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (1175ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1235ms) — 3380 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (166ms) — 715 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (54ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (13015ms) — 636 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (94ms) — 880 keys; 2 changed, 1 added, 0 gone
+    - job 8790621002: updated 2026-09-28T09:40:17-04:00 -> 2026-09-30T13:13:00-04:00
+    - job 8739519002: updated 2026-09-30T13:04:58-04:00 -> 2026-09-30T13:14:41-04:00
+    - NEW: 8739515002
