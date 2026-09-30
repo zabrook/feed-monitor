@@ -6228,3 +6228,16 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-anthropic` HTTP 200 (58ms) — 636 keys; 0 changed, 0 added, 1 gone
     - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
 - `jobs-databricks` HTTP 200 (60ms) — 878 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-30T17:05:22.057Z
+- `shopify-allbirds` HTTP 200 (789ms) — 2720 keys; 1 changed, 0 added, 0 gone
+    - mens-tree-dasher-relay-deep-navy#40444542386256: went out of stock
+- `shopify-gymshark` HTTP 200 (663ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (1188ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1147ms) — 3380 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (137ms) — 715 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (52ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (57ms) — 636 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (4053ms) — 879 keys; 1 changed, 1 added, 0 gone
+    - job 8739519002: updated 2026-09-30T12:12:22-04:00 -> 2026-09-30T13:04:58-04:00
+    - NEW: 8856932002
