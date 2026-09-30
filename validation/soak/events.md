@@ -6150,3 +6150,16 @@ Append-only. One block per run, written by [check.js](check.js).
     - job 5439830008: updated 2026-09-30T11:40:43-04:00 -> 2026-09-30T11:52:56-04:00
 - `jobs-databricks` HTTP 200 (78ms) — 882 keys; 1 changed, 0 added, 0 gone
     - job 8582993002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-30T11:47:55-04:00
+
+### 2026-09-30T16:03:57.408Z
+- `shopify-allbirds` HTTP 200 (886ms) — 2720 keys; 0 changed, 0 added, 0 gone
+- `shopify-gymshark` HTTP 200 (606ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (1236ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1769ms) — 3380 keys; 1 changed, 0 added, 0 gone
+    - super-plush-robe-last-call#44079476277338: went out of stock
+- `jobs-stripe` HTTP 200 (233ms) — 715 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (10131ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (401ms) — 638 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (4658ms) — 881 keys; 1 changed, 0 added, 1 gone
+    - job 8739519002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-30T12:03:56-04:00
+    - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
