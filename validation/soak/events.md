@@ -5198,3 +5198,14 @@ Append-only. One block per run, written by [check.js](check.js).
 - `jobs-figma` HTTP 200 (53ms) — 162 keys; 0 changed, 0 added, 0 gone
 - `jobs-anthropic` HTTP 200 (51ms) — 635 keys; 0 changed, 0 added, 0 gone
 - `jobs-databricks` HTTP 200 (63ms) — 880 keys; 0 changed, 0 added, 0 gone
+
+### 2026-09-30T01:43:44.486Z
+- `shopify-allbirds` HTTP 200 (616ms) — 2720 keys; 1 changed, 0 added, 0 gone
+    - mens-tree-dashers-utility-natural-black-dark-jungle#41222414041168: went out of stock
+- `shopify-gymshark` HTTP 200 (486ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (676ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1527ms) — 3379 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (123ms) — 710 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (94ms) — 162 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (49ms) — 635 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (52ms) — 880 keys; 0 changed, 0 added, 0 gone
