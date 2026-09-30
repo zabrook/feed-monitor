@@ -6272,3 +6272,17 @@ Append-only. One block per run, written by [check.js](check.js).
     - job 8845180002: updated 2026-09-30T12:11:21-04:00 -> 2026-09-30T13:17:14-04:00
     - NEW: 8790289002
     - NEW: 8790301002
+
+### 2026-09-30T17:35:59.075Z
+- `shopify-allbirds` HTTP 200 (689ms) — 2720 keys; 1 changed, 0 added, 0 gone
+    - smallbirds-wool-loungers-big-kids#39804040511568: went out of stock
+- `shopify-gymshark` HTTP 200 (707ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (683ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (1508ms) — 3380 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (121ms) — 714 keys; 0 changed, 0 added, 0 gone
+- `jobs-figma` HTTP 200 (54ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (59ms) — 636 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (61ms) — 882 keys; 3 changed, 0 added, 0 gone
+    - job 8559315002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-30T13:31:42-04:00
+    - job 8739515002: updated 2026-09-30T13:08:34-04:00 -> 2026-09-30T13:29:11-04:00
+    - job 8790301002: updated 2026-09-30T13:25:30-04:00 -> 2026-09-30T13:27:37-04:00
