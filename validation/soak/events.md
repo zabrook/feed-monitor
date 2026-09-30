@@ -6255,3 +6255,20 @@ Append-only. One block per run, written by [check.js](check.js).
     - job 8790621002: updated 2026-09-28T09:40:17-04:00 -> 2026-09-30T13:13:00-04:00
     - job 8739519002: updated 2026-09-30T13:04:58-04:00 -> 2026-09-30T13:14:41-04:00
     - NEW: 8739515002
+
+### 2026-09-30T17:25:51.510Z
+- `shopify-allbirds` HTTP 200 (1664ms) — 2720 keys; 1 changed, 0 added, 0 gone
+    - mens-tree-dashers-utility-natural-black-dark-jungle#41222413910096: went out of stock
+- `shopify-gymshark` HTTP 200 (630ms) — 1691 keys; 0 changed, 0 added, 0 gone
+- `shopify-mejuri` HTTP 200 (858ms) — 1535 keys; 0 changed, 0 added, 0 gone
+- `shopify-brooklinen` HTTP 200 (2141ms) — 3380 keys; 0 changed, 0 added, 0 gone
+- `jobs-stripe` HTTP 200 (147ms) — 714 keys; 0 changed, 0 added, 1 gone
+    - 1 key(s) no longer in feed (deleted/unpublished, not a state change)
+- `jobs-figma` HTTP 200 (59ms) — 163 keys; 0 changed, 0 added, 0 gone
+- `jobs-anthropic` HTTP 200 (63ms) — 636 keys; 0 changed, 0 added, 0 gone
+- `jobs-databricks` HTTP 200 (68ms) — 882 keys; 3 changed, 2 added, 0 gone
+    - job 8633071002: updated 2026-09-30T12:35:13-04:00 -> 2026-09-30T13:17:09-04:00
+    - job 8688851002: updated 2026-09-21T13:22:12-04:00 -> 2026-09-30T13:19:43-04:00
+    - job 8845180002: updated 2026-09-30T12:11:21-04:00 -> 2026-09-30T13:17:14-04:00
+    - NEW: 8790289002
+    - NEW: 8790301002
